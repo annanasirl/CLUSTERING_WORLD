@@ -1,0 +1,145 @@
+Indicator Name,total_values,null_values,coverage_percent
+Urban population (% of total population),5320,20,99.62406015037594
+Urban population,5320,20,99.62406015037594
+Rural population,5320,20,99.62406015037594
+Rural population (% of total population),5320,20,99.62406015037594
+Urban population growth (annual %),5320,21,99.60526315789474
+Rural population growth (annual %),5320,256,95.18796992481202
+Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),5320,300,94.3609022556391
+Total greenhouse gas emissions excluding LULUCF (% change from 1990),5320,300,94.3609022556391
+Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),5320,300,94.3609022556391
+Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),5320,300,94.3609022556391
+Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990),5320,300,94.3609022556391
+Methane (CH4) emissions from Waste (Mt CO2e),5320,300,94.3609022556391
+Methane (CH4) emissions (total) excluding LULUCF (% change from 1990),5320,300,94.3609022556391
+Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),5320,300,94.3609022556391
+Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),5320,300,94.3609022556391
+Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),5320,300,94.3609022556391
+Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),5320,300,94.3609022556391
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),5320,300,94.3609022556391
+Nitrous oxide (N2O) emissions from Waste (Mt CO2e),5320,300,94.3609022556391
+Access to electricity (% of population),5320,331,93.7781954887218
+Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),5320,340,93.60902255639098
+Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),5320,343,93.55263157894737
+Methane (CH4) emissions from Agriculture (Mt CO2e),5320,343,93.55263157894737
+Capture fisheries production (metric tons),5320,353,93.36466165413533
+Aquaculture production (metric tons),5320,361,93.21428571428571
+Total fisheries production (metric tons),5320,361,93.21428571428571
+Surface area (sq. km),5320,367,93.1015037593985
+"Access to electricity, urban (% of urban population)",5320,378,92.89473684210526
+Land area (sq. km),5320,388,92.70676691729324
+Population density (people per sq. km of land area),5320,388,92.70676691729324
+Methane (CH4) emissions from Building (Energy) (Mt CO2e),5320,420,92.10526315789474
+Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),5320,420,92.10526315789474
+Forest area (sq. km),5320,426,91.99248120300751
+Forest area (% of land area),5320,426,91.99248120300751
+Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),5320,430,91.9172932330827
+Methane (CH4) emissions from Transport (Energy) (Mt CO2e),5320,480,90.97744360902256
+Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),5320,480,90.97744360902256
+Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),5320,480,90.97744360902256
+Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),5320,480,90.97744360902256
+Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),5320,480,90.97744360902256
+Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),5320,480,90.97744360902256
+Agricultural land (sq. km),5320,482,90.93984962406014
+Agricultural land (% of land area),5320,484,90.90225563909775
+Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),5320,500,90.6015037593985
+Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),5320,500,90.6015037593985
+Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),5320,500,90.6015037593985
+Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),5320,500,90.6015037593985
+Arable land (hectares per person),5320,510,90.41353383458646
+Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),5320,520,90.22556390977444
+"Access to electricity, rural (% of rural population)",5320,529,90.05639097744361
+Arable land (% of land area),5320,558,89.51127819548873
+Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),5320,560,89.47368421052632
+Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),5320,566,89.3609022556391
+Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),5320,620,88.34586466165413
+Permanent cropland (% of land area),5320,679,87.23684210526316
+Electricity production from oil sources (% of total),5320,683,87.16165413533835
+Electricity production from hydroelectric sources (% of total),5320,699,86.8609022556391
+"Electricity production from oil, gas and coal sources (% of total)",5320,702,86.80451127819549
+Electricity production from natural gas sources (% of total),5320,724,86.39097744360902
+Fertilizer consumption (kilograms per hectare of arable land),5320,746,85.97744360902256
+Electricity production from coal sources (% of total),5320,762,85.67669172932331
+"Access to clean fuels and technologies for cooking, urban (% of urban population)",5320,817,84.64285714285714
+"Access to clean fuels and technologies for cooking, rural (% of rural population)",5320,817,84.64285714285714
+Access to clean fuels and technologies for cooking (% of population),5320,817,84.64285714285714
+Electricity production from nuclear sources (% of total),5320,856,83.90977443609023
+Renewable energy consumption (% of total final energy consumption),5320,891,83.25187969924812
+Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),5320,931,82.5
+Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e),5320,943,82.27443609022556
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",5320,957,82.01127819548873
+Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e),5320,963,81.8984962406015
+Mineral rents (% of GDP),5320,969,81.78571428571429
+Forest rents (% of GDP),5320,969,81.78571428571429
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",5320,971,81.74812030075188
+Energy intensity level of primary energy (MJ/$2021 PPP GDP),5320,978,81.61654135338345
+Total natural resources rents (% of GDP),5320,982,81.54135338345864
+Renewable electricity output (% of total electricity output),5320,1051,80.24436090225564
+Land under cereal production (hectares),5320,1051,80.24436090225564
+Cereal production (metric tons),5320,1051,80.24436090225564
+Crop production index (2014-2016 = 100),5320,1058,80.11278195488721
+Food production index (2014-2016 = 100),5320,1058,80.11278195488721
+Cereal yield (kg per hectare),5320,1062,80.0375939849624
+Total greenhouse gas emissions including LULUCF (Mt CO2e),5320,1063,80.0187969924812
+Livestock production index (2014-2016 = 100),5320,1076,79.77443609022556
+Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e),5320,1156,78.27067669172932
+Natural gas rents (% of GDP),5320,1163,78.1390977443609
+Renewable internal freshwater resources per capita (cubic meters),5320,1179,77.83834586466165
+Oil rents (% of GDP),5320,1181,77.80075187969925
+Coal rents (% of GDP),5320,1190,77.63157894736842
+"Renewable internal freshwater resources, total (billion cubic meters)",5320,1244,76.61654135338345
+F-gases emissions from Industrial Processes (Mt CO2e),5320,1280,75.93984962406014
+"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",5320,1298,75.6015037593985
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",5320,1352,74.58646616541354
+Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e),5320,1358,74.47368421052632
+Population in the largest city (% of urban population),5320,1380,74.06015037593986
+Arable land (hectares),5320,1422,73.27067669172932
+Energy use (kg of oil equivalent per capita),5320,1656,68.87218045112782
+Alternative and nuclear energy (% of total energy use),5320,1686,68.30827067669173
+Fossil fuel energy consumption (% of total),5320,1693,68.17669172932331
+Electric power transmission and distribution losses (% of output),5320,1717,67.72556390977444
+"Annual freshwater withdrawals, total (billion cubic meters)",5320,1720,67.66917293233082
+"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",5320,1747,67.16165413533835
+Electric power consumption (kWh per capita),5320,1751,67.08646616541354
+Combustible renewables and waste (% of total energy),5320,1761,66.8984962406015
+"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",5320,1765,66.82330827067669
+GDP per unit of energy use (PPP $ per kg of oil equivalent),5320,1784,66.46616541353383
+"Annual freshwater withdrawals, total (% of internal resources)",5320,1791,66.33458646616542
+"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",5320,1796,66.2406015037594
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",5320,1799,66.1842105263158
+GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),5320,1799,66.1842105263158
+"Energy imports, net (% of energy use)",5320,1960,63.1578947368421
+Average precipitation in depth (mm per year),5320,2060,61.278195488721806
+Population in urban agglomerations of more than 1 million (% of total population),5320,2140,59.774436090225564
+Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,5320,2167,59.266917293233085
+Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),5320,2200,58.64661654135338
+Terrestrial protected areas (% of total land area),5320,2211,58.43984962406015
+Terrestrial and marine protected areas (% of total territorial area),5320,2211,58.43984962406015
+Population in largest city,5320,2260,57.5187969924812
+Carbon dioxide (CO2) emissions from Waste (Mt CO2e),5320,2364,55.56390977443609
+Methane (CH4) emissions from Industrial Processes (Mt CO2e),5320,2500,53.00751879699248
+Marine protected areas (% of territorial waters),5320,2695,49.3421052631579
+Population in urban agglomerations of more than 1 million,5320,2900,45.48872180451128
+Fertilizer consumption (% of fertilizer production),5320,2974,44.097744360902254
+"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",5320,3142,40.93984962406015
+Population living in slums (% of urban population),5320,3475,34.68045112781955
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)",5320,3574,32.81954887218045
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)",5320,3574,32.81954887218045
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",5320,3574,32.81954887218045
+Agricultural irrigated land (% of total agricultural land),5320,4265,19.830827067669173
+"Fish species, threatened",5320,4795,9.868421052631579
+"Bird species, threatened",5320,4795,9.868421052631579
+"Plant species (higher), threatened",5320,4795,9.868421052631579
+"Mammal species, threatened",5320,4795,9.868421052631579
+Rural population living in areas where elevation is below 5 meters (% of total population),5320,5057,4.943609022556391
+Rural land area (sq. km),5320,5057,4.943609022556391
+Land area where elevation is below 5 meters (% of total land area),5320,5057,4.943609022556391
+Population living in areas where elevation is below 5 meters (% of total population),5320,5057,4.943609022556391
+Urban land area where elevation is below 5 meters (sq. km),5320,5057,4.943609022556391
+Urban land area where elevation is below 5 meters (% of total land area),5320,5057,4.943609022556391
+Rural land area where elevation is below 5 meters (% of total land area),5320,5057,4.943609022556391
+Rural land area where elevation is below 5 meters (sq. km),5320,5057,4.943609022556391
+Urban land area (sq. km),5320,5057,4.943609022556391
+Urban population living in areas where elevation is below 5 meters (% of total population),5320,5057,4.943609022556391
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",5320,5152,3.1578947368421053
+Disaster risk reduction progress score (1-5 scale; 5=best),5320,5237,1.5601503759398496

@@ -1,0 +1,723 @@
+Series Code,Topic,Indicator Name,Short definition,Long definition,Unit of measure,Periodicity,Base Period,Other notes,Aggregation method,Limitations and exceptions,Notes from original source,General comments,Source,Statistical concept and methodology,Development relevance,Related source links,Other web links,Related indicators,License Type
+SI.DST.02ND.20,Poverty,Income share held by second 20%,,Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles. Percentage shares by quintile may not sum to 100 because of rounding.,%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: Inequality in the distribution of income is reflected in the share of income or consumption accruing to a portion of the population ranked by income or consumption levels. The portions ranked lowest by personal income receive the smallest shares of total income.
+
+
+
+
+
+
+
+Data on the distribution of income or consumption come from nationally representative household surveys. Where the original data from the household survey were available, they have been used to directly calculate the income or consumption shares by quintile. Otherwise, shares have been estimated from the best available grouped data.
+
+
+
+
+
+
+
+The distribution data have been adjusted for household size, providing a more consistent measure of per capita income or consumption. 
+
+
+
+
+
+
+
+The year reflects the year in which the underlying household survey data were collected or, when the data collection period bridged two calendar years, the year data collection started.
+
+
+
+
+
+
+
+Percentage shares by quintile may not sum to 100 because of rounding.
+Statistical concept(s): The percentage of total income in a population that is held by the second quintile, meaning the second 20% of people when ranked from lowest to highest income.","It measures the level of inequality within countries (SDG 10). Inequality undermines economic growth and development in the long run, limits the potential of growth to reduce poverty, and weakens social cohesion and trust.",,,,CC BY-4.0
+SI.DST.03RD.20,Poverty,Income share held by third 20%,,Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles. Percentage shares by quintile may not sum to 100 because of rounding.,%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: Inequality in the distribution of income is reflected in the share of income or consumption accruing to a portion of the population ranked by income or consumption levels. The portions ranked lowest by personal income receive the smallest shares of total income.
+
+
+
+
+
+
+
+Data on the distribution of income or consumption come from nationally representative household surveys. Where the original data from the household survey were available, they have been used to directly calculate the income or consumption shares by quintile. Otherwise, shares have been estimated from the best available grouped data.
+
+
+
+
+
+
+
+The distribution data have been adjusted for household size, providing a more consistent measure of per capita income or consumption. 
+
+
+
+
+
+
+
+The year reflects the year in which the underlying household survey data were collected or, when the data collection period bridged two calendar years, the year data collection started.
+
+
+
+
+
+
+
+Percentage shares by quintile may not sum to 100 because of rounding.
+Statistical concept(s): The percentage of total income in a population that is held by the third quintile, meaning the third 20% of people when ranked from lowest to highest income.","It measures the level of inequality within countries (SDG 10). Inequality undermines economic growth and development in the long run, limits the potential of growth to reduce poverty, and weakens social cohesion and trust.",,,,CC BY-4.0
+SI.DST.04TH.20,Poverty,Income share held by fourth 20%,,Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles. Percentage shares by quintile may not sum to 100 because of rounding.,%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: Inequality in the distribution of income is reflected in the share of income or consumption accruing to a portion of the population ranked by income or consumption levels. The portions ranked lowest by personal income receive the smallest shares of total income.
+
+
+
+
+
+
+
+Data on the distribution of income or consumption come from nationally representative household surveys. Where the original data from the household survey were available, they have been used to directly calculate the income or consumption shares by quintile. Otherwise, shares have been estimated from the best available grouped data.
+
+
+
+
+
+
+
+The distribution data have been adjusted for household size, providing a more consistent measure of per capita income or consumption. 
+
+
+
+
+
+
+
+The year reflects the year in which the underlying household survey data were collected or, when the data collection period bridged two calendar years, the year data collection started.
+
+
+
+
+
+
+
+Percentage shares by quintile may not sum to 100 because of rounding.
+Statistical concept(s): The percentage of total income in a population that is held by the fourth quintile, meaning the fourth 20% of people when ranked from lowest to highest income.","It measures the level of inequality within countries (SDG 10). Inequality undermines economic growth and development in the long run, limits the potential of growth to reduce poverty, and weakens social cohesion and trust.",,,,CC BY-4.0
+SI.DST.05TH.20,Poverty,Income share held by highest 20%,,Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles. Percentage shares by quintile may not sum to 100 because of rounding.,%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: Inequality in the distribution of income is reflected in the share of income or consumption accruing to a portion of the population ranked by income or consumption levels. The portions ranked lowest by personal income receive the smallest shares of total income.
+
+
+
+
+
+
+
+Data on the distribution of income or consumption come from nationally representative household surveys. Where the original data from the household survey were available, they have been used to directly calculate the income or consumption shares by quintile. Otherwise, shares have been estimated from the best available grouped data.
+
+
+
+
+
+
+
+The distribution data have been adjusted for household size, providing a more consistent measure of per capita income or consumption. 
+
+
+
+
+
+
+
+The year reflects the year in which the underlying household survey data were collected or, when the data collection period bridged two calendar years, the year data collection started.
+
+
+
+
+
+
+
+Percentage shares by quintile may not sum to 100 because of rounding.
+Statistical concept(s): The percentage of total income in a population that is held by the fifth or top quintile, meaning the top 20% of people when ranked from lowest to highest income.","It measures the level of inequality within countries (SDG 10). Inequality undermines economic growth and development in the long run, limits the potential of growth to reduce poverty, and weakens social cohesion and trust.",,,,CC BY-4.0
+SI.DST.10TH.10,Poverty,Income share held by highest 10%,,Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles.,%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: Inequality in the distribution of income is reflected in the share of income or consumption accruing to a portion of the population ranked by income or consumption levels. The portions ranked lowest by personal income receive the smallest shares of total income.
+
+
+
+
+
+
+
+Data on the distribution of income or consumption come from nationally representative household surveys. Where the original data from the household survey were available, they have been used to directly calculate the income or consumption shares by quintile. Otherwise, shares have been estimated from the best available grouped data.
+
+
+
+
+
+
+
+The distribution data have been adjusted for household size, providing a more consistent measure of per capita income or consumption. 
+
+
+
+
+
+
+
+The year reflects the year in which the underlying household survey data were collected or, when the data collection period bridged two calendar years, the year data collection started.
+Statistical concept(s): The percentage of total income in a population that is held by the tenth or top decile, meaning the top 10% of people when ranked from lowest to highest income.","It measures the level of inequality within countries (SDG 10). Inequality undermines economic growth and development in the long run, limits the potential of growth to reduce poverty, and weakens social cohesion and trust.",,,,CC BY-4.0
+SI.DST.50MD,Poverty,Proportion of people living below 50 percent of median income (%),,"The percentage of people in the population who live in households whose per capita income or consumption is below half of the median income or consumption per capita. The median is measured at 2021 Purchasing Power Parity (PPP) using the Poverty and Inequality Platform (http://www.pip.worldbank.org). For some countries, medians are not reported due to grouped and/or confidential data. The reference year is the year in which the underlying household survey data was collected. In cases for which the data collection period bridged two calendar years, the first year in which data were collected is reported.",%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: Inequality in the distribution of income is reflected in the share of income or consumption accruing to a portion of the population ranked by income or consumption levels. The portions ranked lowest by personal income receive the smallest shares of total income.
+
+
+
+
+
+
+
+Data on the distribution of income or consumption come from nationally representative household surveys. Where the original data from the household survey were available, they have been used to directly calculate the income or consumption shares by quintile. Otherwise, shares have been estimated from the best available grouped data.
+
+
+
+
+
+
+
+The distribution data have been adjusted for household size, providing a more consistent measure of per capita income or consumption. 
+
+
+
+
+
+
+
+The year reflects the year in which the underlying household survey data were collected or, when the data collection period bridged two calendar years, the year data collection started.
+
+
+
+
+
+
+
+Percentage shares by quintile may not sum to 100 because of rounding.
+Statistical concept(s): The percentage of total income in a population that is held by the tenth or top decile, meaning the top 10% of people when ranked from lowest to highest income.","It measures the level of inequality within countries (SDG 10). Inequality undermines economic growth and development in the long run, limits the potential of growth to reduce poverty, and weakens social cohesion and trust.",,,,CC BY-4.0
+SI.DST.FRST.10,Poverty,Income share held by lowest 10%,,Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles.,%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: Inequality in the distribution of income is reflected in the share of income or consumption accruing to a portion of the population ranked by income or consumption levels. The portions ranked lowest by personal income receive the smallest shares of total income.
+
+
+
+
+
+
+
+Data on the distribution of income or consumption come from nationally representative household surveys. Where the original data from the household survey were available, they have been used to directly calculate the income or consumption shares by quintile. Otherwise, shares have been estimated from the best available grouped data.
+
+
+
+
+
+
+
+The distribution data have been adjusted for household size, providing a more consistent measure of per capita income or consumption. No adjustment has been made for spatial differences in cost of living within countries, because the data needed for such calculations are generally unavailable. For further details on the estimation method for low- and middle-income economies, see Ravallion and Chen (1996).
+
+
+
+
+
+
+
+Survey year is the year in which the underlying household survey data were collected or, when the data collection period bridged two calendar years, the year in which most of the data were collected.
+Statistical concept(s): The percentage of a population whose income or consumption falls below half of the median in their country, essentially indicating the level of ""relative poverty"" within a society. It reflects the share of the population whose income or consumption is less than half of the typical standard in their society, highlighting income inequality at the lower end of the distribution.","It measures the level of inequality within countries (SDG 10). Inequality undermines economic growth and development in the long run, limits the potential of growth to reduce poverty, and weakens social cohesion and trust.",,,,CC BY-4.0
+SI.DST.FRST.20,Poverty,Income share held by lowest 20%,,Percentage share of income or consumption is the share that accrues to subgroups of population indicated by deciles or quintiles. Percentage shares by quintile may not sum to 100 because of rounding.,%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: Inequality in the distribution of income is reflected in the share of income or consumption accruing to a portion of the population ranked by income or consumption levels. The portions ranked lowest by personal income receive the smallest shares of total income.
+
+
+
+
+
+
+
+Data on the distribution of income or consumption come from nationally representative household surveys. Where the original data from the household survey were available, they have been used to directly calculate the income or consumption shares by quintile. Otherwise, shares have been estimated from the best available grouped data.
+
+
+
+
+
+
+
+The distribution data have been adjusted for household size, providing a more consistent measure of per capita income or consumption. 
+
+
+
+
+
+
+
+The year reflects the year in which the underlying household survey data were collected or, when the data collection period bridged two calendar years, the year data collection started.
+
+
+
+
+
+
+
+Percentage shares by quintile may not sum to 100 because of rounding.
+Statistical concept(s): The percentage of total income in a population that is held by the bottom quintile, meaning the bottom 20% of people when ranked from lowest to highest income.","It measures the level of inequality within countries (SDG 10). Inequality undermines economic growth and development in the long run, limits the potential of growth to reduce poverty, and weakens social cohesion and trust.",,,,CC BY-4.0
+SI.POV.DDAY,Poverty,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),,"Poverty headcount ratio at $3.00 a day is the percentage of the population living on less than $3.00 a day at 2021 purchasing power adjusted prices. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions.",%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,Population-weighted average,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: International comparisons of poverty estimates entail both conceptual and practical problems. Countries have different definitions of poverty, and consistent comparisons across countries can be difficult. Local poverty lines tend to have higher purchasing power in rich countries, where more generous standards are used, than in poor countries.
+
+
+
+
+
+
+
+Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world's poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using purchasing power parities (PPPs), was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in September 2022, when we adopted $3.00 as the international poverty line using the 2021 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. The $4.20 poverty line is derived from typical national poverty lines in countries classified as Lower Middle Income. The $8.30 poverty line is derived from typical national poverty lines in countries classified as Upper Middle Income.
+
+
+
+
+
+
+
+Early editions of World Development Indicators used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2021 consumption PPP estimates produced by the World Bank. The current extreme poverty line is set at $3.00 a day in 2021 PPP terms, which represents the mean of the poverty lines found in 15 of the poorest countries ranked by per capita consumption. The new poverty line maintains the same standard for extreme poverty - the poverty line typical of the poorest countries in the world - but updates it using the latest information on the cost of living in developing countries. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions.
+
+
+
+
+
+
+
+The statistics reported here are based on consumption data or, when unavailable, on income surveys.
+Statistical concept(s): Poverty headcount ratio at $3.00 a day refers to the percentage of a population whose consumption or income per day falls short of the international poverty line of $3.00 a day (adjusted for purchasing power parity differences across countries), the poverty line typical of low-income countries.","The World Bank Group is committed to reducing extreme poverty to 3 percent or less, globally, by 2030. The World Bank defines extreme poverty as living on less than $3.00 a day (adjusted for purchasing power differences across countries). The value of $3.00 is the typical poverty line of low-income countries, which is the minimum amount of money people in low-income countries need to cover their daily basic needs, including food, clothing, and shelter. The share of population living on less than $3.00 a day is the first indicator the World Bank tracks in its Bank’s expanded vision indicators to create a world free of poverty in a livable planet. It is also the indicator the UN tracks for SDG 1.1. Monitoring poverty is important on the global development agenda as well as on the national development agenda of many countries.",,,,CC BY-4.0
+SI.POV.GAPS,Poverty,Poverty gap at $3.00 a day (2021 PPP) (%),,"Poverty gap at $3.00 a day (2021 PPP) is the mean shortfall in income or consumption from the poverty line $3.00 a day (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence.",%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,Population-weighted average,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: International comparisons of poverty estimates entail both conceptual and practical problems. Countries have different definitions of poverty, and consistent comparisons across countries can be difficult. Local poverty lines tend to have higher purchasing power in rich countries, where more generous standards are used, than in poor countries.Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world's poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using purchasing power parities (PPPs), was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in June 2025, when we adopted $3.00 as the international poverty line using the 2021 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. The $4.20 poverty line is derived from typical national poverty lines in countries classified as Lower Middle Income. The $8.30 poverty line is derived from typical national poverty lines in countries classified as Upper Middle Income.Early editions of World Development Indicators used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, 2011, 2021, and 2021 consumption PPP estimates produced by the World Bank. The current extreme poverty line is set at $3.00 a day in 2021 PPP terms, which represents the median of the poverty lines found in 23 low-income countries. The new poverty line maintains the same standard for extreme poverty - the poverty line typical of the poorest countries in the world - but updates it using the latest information on the cost of living in developing countries. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions.The statistics reported here are based on consumption data or, when unavailable, on income surveys.
+Statistical concept(s): The poverty gap measures the average shortfall in income or consumption of individuals living below the international poverty line of $3.00 per day, adjusted to 2021 purchasing power parity (PPP), expressed as a percentage of that poverty line. It essentially measures the depth of poverty—that is, how far the extreme poor are living below the poverty line.","The World Bank Group is committed to reducing extreme poverty to 3 percent or less, globally, by 2030. Monitoring poverty is important on the global development agenda as well as on the national development agenda of many countries. The poverty gap measures the depth of poverty—that is, how far below the poverty line extreme poor are living. The poverty gap measure is used to estimate the total value of monetary transfers that could lift the poor out of poverty, assuming poverty is transitory and there are no administrative costs of transfers.",,,,CC BY-4.0
+SI.POV.GINI,Poverty,Gini index,,"Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from a perfectly equal distribution. A Lorenz curve plots the cumulative percentages of total income received against the cumulative number of recipients, starting with the poorest individual or household. The Gini index measures the area between the Lorenz curve and a hypothetical line of absolute equality, expressed as a percentage of the maximum area under the line. Thus a Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.",%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,,"Gini coefficients are not unique. It is possible for two different Lorenz curves to give rise to the same Gini coefficient. Furthermore it is possible for the Gini coefficient of a developing country to rise (due to increasing inequality of income) while the number of people in absolute poverty decreases. This is because the Gini coefficient measures relative, not absolute, wealth.
+
+
+
+
+
+
+
+Another limitation of the Gini coefficient is that it is not additive across groups, i.e. the total Gini of a society is not equal to the sum of the Gini's for its sub-groups. Thus, country-level Gini coefficients cannot be aggregated into regional or global Gini's, although a Gini coefficient can be computed for the aggregate.
+
+
+
+
+
+
+
+Because the underlying household surveys differ in methods and types of welfare measures collected, data are not strictly comparable across countries or even across years within a country. Two sources of non-comparability should be noted for distributions of income in particular. First, the surveys can differ in many respects, including whether they use income or consumption expenditure as the living standard indicator. The distribution of income is typically more unequal than the distribution of consumption. In addition, the definitions of income used differ more often among surveys. Consumption is usually a much better welfare indicator, particularly in developing countries. Second, households differ in size (number of members) and in the extent of income sharing among members. And individuals differ in age and consumption needs. Differences among countries in these respects may bias comparisons of distribution. 
+
+
+
+
+
+
+
+World Bank staff have made an effort to ensure that the data are as comparable as possible. Wherever possible, consumption has been used rather than income. Income distribution and Gini indexes for high-income economies are calculated directly from the Luxembourg Income Study database, using an estimation method consistent with that applied for developing countries.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: The Gini index measures the area between the Lorenz curve and a hypothetical line of absolute equality, expressed as a percentage of the maximum area under the line. A Lorenz curve plots the cumulative percentages of total income received against the cumulative number of recipients, starting with the poorest individual. Thus a Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.
+
+
+
+
+
+
+
+The Gini index provides a convenient summary measure of the degree of inequality. Data on the distribution of income or consumption come from nationally representative household surveys. Where the original data from the household survey were available, they have been used to calculate the income or consumption shares by quintile. Otherwise, shares have been estimated from the best available grouped data.
+
+
+
+
+
+
+
+The distribution data have been adjusted for household size, providing a more consistent measure of per capita income or consumption. 
+
+
+
+
+
+
+
+The year reflects the year in which the underlying household survey data were collected or, when the data collection period bridged two calendar years, the year data collection started.
+Statistical concept(s): The Gini index is the average of all pairwise absolute differences between individual consumption or income, normalized by twice the mean. More intuitively, the Gini index is the average share of mean consumption or income that needs to be transferred between two randomly selected individuals to achieve equality. A Gini index of 1 represents perfect inequality, in which total consumption or income goes to one individual. A Gini index of 0 indicates represents perfect equality, in which all individuals have the same level of consumption or income.","The World Bank Group's vision of promoting shared prosperity includes a measure that tracks the number of economies with high inequality, defined as those with a Gini index greater than 0.4",,,,CC BY-4.0
+SI.POV.LMIC,Poverty,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),,Poverty headcount ratio at $4.20 a day is the percentage of the population living on less than $4.20 a day at 2021 international prices.,%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,Population-weighted average,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: International comparisons of poverty estimates entail both conceptual and practical problems. Countries have different definitions of poverty, and consistent comparisons across countries can be difficult. Local poverty lines tend to have higher purchasing power in rich countries, where more generous standards are used, than in poor countries.
+
+
+
+
+
+
+
+Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world's poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using purchasing power parities (PPPs), was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in September 2022, when we adopted $3.00 as the international poverty line using the 2021 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. The $4.20 poverty line is derived from typical national poverty lines in countries classified as Lower Middle Income. The $8.30 poverty line is derived from typical national poverty lines in countries classified as Upper Middle Income.
+
+
+
+
+
+
+
+Early editions of World Development Indicators used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2021 consumption PPP estimates produced by the World Bank. The current extreme poverty line is set at $3.00 a day in 2021 PPP terms, which represents the mean of the poverty lines found in 15 of the poorest countries ranked by per capita consumption. The new poverty line maintains the same standard for extreme poverty - the poverty line typical of the poorest countries in the world - but updates it using the latest information on the cost of living in developing countries. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions.
+
+
+
+
+
+
+
+The statistics reported here are based on consumption data or, when unavailable, on income surveys.
+Statistical concept(s): Poverty headcount ratio at $4.20 a day refers to the percentage of a population whose consumption or income per day falls short of $4.20 a day (adjusted for purchasing power parity differences across countries). $4.20 is the typical poverty line of lower-middle-income countries.","The World Bank defines the poverty line of $4.20 (adjusted for purchasing power differences across countries) as a more relevant poverty line to monitor poverty in lower-middle-income countries. The value of $4.20 is the typical poverty line of lower-middle-income countries, which is the estimated minimum amount of money people in lower-middle-income countries need to cover their daily basic needs, including food, clothing, shelter, heath care, education, and so on. Policy dialogue can be facilitated with this poverty line, especially in middle-income countries.",,,,CC BY-4.0
+SI.POV.LMIC.GP,Poverty,Poverty gap at $4.20 a day (2021 PPP) (%),,"Poverty gap at $4.20 a day (2021 PPP) is the mean shortfall in income or consumption from the poverty line $4.20 a day (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence.",%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,Population-weighted average,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: International comparisons of poverty estimates entail both conceptual and practical problems. Countries have different definitions of poverty, and consistent comparisons across countries can be difficult. Local poverty lines tend to have higher purchasing power in rich countries, where more generous standards are used, than in poor countries.
+
+
+
+
+
+
+
+Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world's poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using purchasing power parities (PPPs), was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in September 2022, when we adopted $3.00 as the international poverty line using the 2021 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. The $4.20 poverty line is derived from typical national poverty lines in countries classified as Lower Middle Income. The $8.30 poverty line is derived from typical national poverty lines in countries classified as Upper Middle Income.
+
+
+
+
+
+
+
+Early editions of World Development Indicators used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2021 consumption PPP estimates produced by the World Bank. The current extreme poverty line is set at $3.00 a day in 2021 PPP terms, which represents the mean of the poverty lines found in 15 of the poorest countries ranked by per capita consumption. The new poverty line maintains the same standard for extreme poverty - the poverty line typical of the poorest countries in the world - but updates it using the latest information on the cost of living in developing countries. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions.
+
+
+
+
+
+
+
+The statistics reported here are based on consumption data or, when unavailable, on income surveys.
+Statistical concept(s): The poverty gap at $4.20 measures the average shortfall in income or consumption of individuals living below the poverty line of $4.20 per day, adjusted to 2021 purchasing power parity (PPP), expressed as a percentage of that poverty line. It essentially measures the depth of poverty—that is, how far the poor are living below the lower-middle-income poverty line.","Monitoring poverty is important on the global development agenda as well as on the national development agenda of many countries. The poverty gap measures the depth of poverty—that is, how far below the lower-middle-income poverty line the poor are living. The poverty gap measure is used to estimate the total value of monetary transfers that could lift the poor out of poverty, assuming poverty is transitory and there are no administrative costs of transfers.",,,,CC BY-4.0
+SI.POV.MPUN,Poverty,Multidimensional poverty headcount ratio (UNDP) (% of population),,"The multidimensional poverty headcount ratio (UNDP) is the percentage of a population living in poverty according to UNDPs multidimensional poverty index. The index includes three dimensions -- health, education, and living standards.",%,Annual,,"The global MPI is estimated using comprehensive household survey data, which is largely provided by the Multiple Indicator Cluster Surveys programme (MICS) and the Demographic and Health Surveys (DHS) Program. For a few countries, data from national household surveys that are comparable to DHS and MICS is used. 
+Datasets are incorporated each year from a moving window starting 12 years before the current year (e.g. 2011 for the global MPI in 2023)",,"Besides the frequency and timeliness of survey data, other limitations include if the household survey data being used is missing any of the 10 indicators, that indicator is dropped from the calculation. The weights are then adjusted so that each dimension continues to be given a weight of one-third. MPI poverty estimates are only calculated if at least one indicator in health and education dimensions is available, and if at least four indicators in the living standards dimension are available.",,,"Alkire, S., Mishra, R., Selden, L. and Suppa, N. (2025). ‘The global Multidimensional Poverty Index (MPI) 2025: Country results and methodological note’, OPHI MPI Methodological Note 61, Oxford Poverty and Human Development Initiative (OPHI), University of Oxford.url: <https://ophi.org.uk/publications/MN-61>","Methodology: The global MPI, published annually since 2010, captures acute multidimensional poverty in developing regions of the world (Alkire and Santos, 2014). This measure is based on the dual-cutoff counting methodology developed by Alkire and Foster (2011). The global MPI is composed of three dimensions (health, education, and living standards) and 10 indicators (nutrition, child mortality, school attendance, years of schooling, electricity, drinking water, sanitation, cooking fuel, housing, and assets). 
+
+The global MPI begins by constructing a deprivation profile for each household and person in it that tracks deprivations in each of the 10 indicators. For example, a household and all people living in it are deprived if any child is stunted or any child or adult for whom data are available is underweight; if any child died in the past five years; if any school-aged child is not attending school up to the age at which he or she would complete class 8 or no household member has completed six years of schooling; or if the household lacks access to electricity, an improved source of drinking water within a 30 minute walk round trip, an improved sanitation facility that is not shared, nonsolid cooking fuel, durable housing materials, and basic assets such as a radio, animal cart, phone, television, computer, refrigerator, bicycle or motorcycle. 
+
+All indicators are equally weighted within each dimension, so the health and education indicators are weighted 1/6 each, and the standard of living indicators are weighted 1/18 each. A person’s deprivation score is the sum of the weighted deprivations she or he experiences. The global MPI identifies people as multidimensionally poor if their deprivation score is 1/3 or higher. 
+
+MPI values are the product of the incidence (H, or the proportion of population who live in multidimensional poverty) and intensity of poverty (A, or the average deprivation score among multidimensionally poor people). MPI = H × A. 
+
+The MPI ranges from 0 to 1, and higher values imply higher poverty. MPI values decline when fewer people are poor or when poor people have fewer deprivations.","The global MPI was developed Sabina Alkire and Maria Emma Santos (2014), in collaboration with the Human Development Report Office (HDRO) at UNDP as an internationally comparable measure of acute poverty. Technically, the global MPI relies on the Alkire-Foster method (2011). In 2018, five out of the ten indicators have been revised to better align with the SDGs (see Alkire, Kanagaratnam, Nogales and Suppa 2022; Alkire and Kanagaratnam 2020; Alkire and Jahan 2018).",,,,CC BY-4.0
+SI.POV.MPWB,Poverty,Multidimensional poverty headcount ratio (World Bank) (% of population),,"The multidimensional poverty headcount ratio (World Bank) is the percentage of a population living in poverty according to the World Bank's Multidimensional Poverty Measure. The Multidimensional Poverty Measure includes three dimensions – monetary poverty, education, and basic infrastructure services – to capture a more complete picture of poverty.",%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,Population-weighted average,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: The World Bank's Multidimensional Poverty Measure (MPM) seeks to understand poverty beyond monetary deprivations by including access to education and basic infrastructure along with the monetary headcount ratio at the $3.00 international poverty line.
+
+
+
+The measure takes inspiration and guidance from other prominent global multidimensional measures, particularly the Multidimensional Poverty Index (MPI) developed by the United Nations Development Programme (UNDP) and Oxford University but differs from them in one important aspect: it includes monetary poverty less than $3.00 per day, the new International Poverty Line at 2021 PPP (Purchasing Power Parity), as one of the dimensions. 
+
+
+
+The MPM is composed of six indicators: consumption or income, educational attainment, educational enrollment, drinking water, sanitation, and electricity. These are mapped into three dimensions of well-being: monetary, education, and basic infrastructure services.
+
+
+
+The three MPM dimensions are weighted equally, and within each dimension each indicator is also weighted equally. Individuals are considered multidimensionally deprived if they fall short of the threshold in at least one dimension or in a combination of indicators equivalent in weight to a full dimension. In other words, households will be considered poor if they are deprived in indicators whose weight adds up to 1/3 or more. Because the monetary dimension is measured using only one indicator, anyone who is income poor is automatically also poor under the multidimensional poverty measure. 
+
+
+
+Summarizing the information on the different deprivations into a single index proves useful in making comparisons across populations and across time. However, any aggregation of indicators into a single index always involves a decision on how each indicator is to be weighted.
+Statistical concept(s): The World Bank’s multi-dimensional poverty measure (MPM) summarizes the incidence of multiple dimensions of poverty in a country. It captures the idea that poverty is multi-faceted, including both monetary and non-monetary aspects. It assesses deprivation in three dimensions of well-being (monetary poverty, education, and basic infrastructure) and 6 corresponding indicators (monetary poverty, educational attainment, educational enrollment, access to electricity, access to improved sanitation, access to safe drinking water).","Monitoring poverty is important on the global development agenda as well as on the national development agenda of many countries. The first Sustainable Development Goal calls for ending poverty in all forms by 2030. Poverty is multidimensional, containing both monetary and non-monetary dimensions. The World Bank's multidimensional poverty measure captures both elements, allowing for a more complete tracking of poverty in all forms",,,,CC BY-4.0
+SI.POV.NAHC,Poverty,Poverty headcount ratio at national poverty lines (% of population),,"National poverty headcount ratio is the percentage of the population living below the national poverty line(s). National estimates are based on population-weighted subgroup estimates from household surveys. For economies for which the data are from EU-SILC, the reported year is the income reference year, which is the year before the survey year.",%,Annual,,"This series only includes estimates that to the best of our knowledge are reasonably comparable over time for a country. Due to differences in estimation methodologies and poverty lines, estimates should not be compared across countries.",Population-weighted average,,,,"World Bank, Poverty and Inequality Platform. Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country–specific) poverty lines., World Bank (WB), note: Data are compiled from official government sources or are computed by World Bank staff using national (i.e. country–specific) poverty lines.","Methodology: Poverty headcount ratio among the population is measured based on national (i.e. country-specific) poverty lines. A country may have a unique national poverty line or separate poverty lines for rural and urban areas, or for different geographic areas to reflect differences in the cost of living or sometimes to reflect differences in diets and consumption baskets.
+
+
+
+
+
+
+
+Poverty estimates at national poverty lines are computed from household survey data collected from nationally representative samples of households. These data must contain sufficiently detailed information to compute a comprehensive estimate of total household income or consumption (including consumption or income from own production), from which it is possible to construct a correctly weighted distribution of per capita consumption or income. 
+
+
+
+
+
+
+
+National poverty lines are the benchmark for estimating poverty indicators that are consistent with the country's specific economic and social circumstances. National poverty lines reflect local perceptions of the level and composition of consumption or income needed to be non-poor. The perceived boundary between poor and non-poor typically rises with the average income of a country and thus does not provide a uniform measure for comparing poverty rates across countries. While poverty rates at national poverty lines should not be used for comparing poverty rates across countries, they are appropriate for guiding and monitoring the results of country-specific national poverty reduction strategies. 
+
+
+
+
+
+
+
+Almost all national poverty lines in developing economies are anchored to the cost of a food bundle - based on the prevailing national diet of the poor - that provides adequate nutrition for good health and normal activity, plus an allowance for nonfood spending. National poverty lines must be adjusted for inflation between survey years to remain constant in real terms and thus allow for meaningful comparisons of poverty over time. Because diets and consumption baskets change over time, countries periodically recalculate the poverty line based on new survey data. In such cases the new poverty lines should be deflated to obtain comparable poverty estimates from earlier years. 
+
+
+
+
+
+
+
+This series only includes estimates that to the best of our knowledge are reasonably comparable over time for a country. For economies for which the data are from EU-SILC, the reported year is the income reference year, which is the year before the survey year. For all other economies, the year reported is the year in which the underlying household survey data were collected or, when the data collection period bridged two calendar years, the year in which data collection started.
+Statistical concept(s): National poverty headcount ratio refers to the percentage of a population whose consumption or income per day falls short of the national poverty line. National poverty lines vary by country and over time. In low- and middle-income countries, national poverty lines tend to be absolute poverty lines, thus reflecting the estimated minimum amount of money needed to cover basic needs. In high-income countries, national poverty lines tend to be relative poverty lines, thus reflecting the typical amount of money needed for an individual to afford the typical standard of living and without any restraints to participating fully in the societies in which they live. National poverty lines tend to grow with economic growth, especially in high-income or upper-middle-income countries.","The poverty rate as defined by national poverty lines reflects the share of the population that fails to meet the standard a country thinks is necessary to cover basic needs (typically in low- and middle-income countries) or afford a decent lifestyle (typically in high-income countries). SDG 1.2 aims to reduce by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions, by 2030.",,,,CC BY-4.0
+SI.POV.SOPO,Poverty,Poverty headcount ratio at societal poverty line (% of population),,"The poverty headcount ratio at societal poverty line is the percentage of a population living in poverty according to the World Bank's Societal Poverty Line. The Societal Poverty Line is expressed in purchasing power adjusted 2021 U.S. dollars and defined as max($3.00, $1.30 + 0.5*Median). This means that when the national median is sufficiently low, the Societal Poverty line is equivalent to the extreme poverty line, $3.00. For countries with a sufficiently high national median, the Societal Poverty Line grows as countries’ median income grows.",%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,Population-weighted average,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: The Societal Poverty Line (SPL) adopted by the World Bank is calculated in 2021 PPP U.S. dollars as follows: SPL = max (US$3.00, US$1.30 + 0.5 median consumption). By this definition, societal poverty represents a combination of extreme poverty, which is fixed in value for everyone, and a relative dimension of well-being that differs in every country depending on the median level of consumption in that country. In countries with low median consumption (less than US$2.00 per person per day), a rise in median consumption does not change the SPL. Indeed, the SPL has the same value as the IPL in all countries with median consumption up to $3.40. However, as countries with median consumption at more than US$3.40 become richer, and the median consumption increases, the value of the SPL also rises. The slope of one-half, the rate at which the SPL is rising as countries become richer, comes from the empirical association observed between national poverty lines and different measures of overall consumption in society. It indicates that, on average, the national poverty lines are increasing at a rate equal to half the median consumption in the countries. The slope of one-half and the intercept of US$1.30 are the values that most closely fit the data provided by the national poverty lines and overall consumption in each country. The SPL and the International Poverty Line (IPL) share the same empirical underpinning. Both are anchored in the distribution of national poverty lines, which represent countries’ own judgements of what poverty means for them. Whereas the IPL focuses narrowly—and deliberately—on the choices of some of the poorest countries, the SPL is built on information from across the whole range of levels of development. In addition to fitting the data well, the slope coefficient of half the median is widely used by many countries and organizations as a measure of relative poverty and inclusion.
+Statistical concept(s): Poverty headcount ratio at societal poverty line measures the share of the population living below the societal poverty line. The societal poverty line combines elements of both absolute and relative poverty. A minimum amount of money is required for subsistence (absolute poverty), while an additional amount of money is required to afford the typical lifestyle expected in the society in which people live (relative poverty). The societal poverty line is expressed as: max (US$3.00, US$1.30 + 0.5 median consumption) in 2021 PPP U.S. dollars. $1.30 represents the standard for absolute poverty, while 0.5 median consumption represents the standard for relative poverty. In very poor countries, typically with median consumption up to $3.40, it makes more sense to consider that poverty is entirely absolute, so that the effective societal poverty line becomes the international poverty line of $3.00.","Monitoring poverty is important on the global development agenda as well as on the national development agenda of many countries. The first Sustainable Development Goal calls for ending poverty in all forms by 2030. Typically, countries' poverty lines increase in real value as their economies get richer. Essentially, this is because in a richer country it is costlier to participate in society (i.e., be considered non-poor). Yet as relative poverty lines can take on very low values for poor countries, one may want to ensure a lower bound which provides a fixed, absolute element to the SPL, which the study interprets as the cost of consuming some minimum bundle of goods. The Societal Poverty Line tracks poverty rates consistent with these considerations.",,,,CC BY-4.0
+SI.POV.UMIC,Poverty,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),,Poverty headcount ratio at $8.30 a day is the percentage of the population living on less than $8.30 a day at 2021 international prices.,%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,Population-weighted average,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: International comparisons of poverty estimates entail both conceptual and practical problems. Countries have different definitions of poverty, and consistent comparisons across countries can be difficult. Local poverty lines tend to have higher purchasing power in rich countries, where more generous standards are used, than in poor countries.Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world's poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using purchasing power parities (PPPs), was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in September 2022, when we adopted $3.00 as the international poverty line using the 2021 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. The $4.20 poverty line is derived from typical national poverty lines in countries classified as Lower Middle Income. The $8.30 poverty line is derived from typical national poverty lines in countries classified as Upper Middle Income.Early editions of World Development Indicators used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2021 consumption PPP estimates produced by the World Bank. The current extreme poverty line is set at $3.00 a day in 2021 PPP terms, which represents the mean of the poverty lines found in 15 of the poorest countries ranked by per capita consumption. The new poverty line maintains the same standard for extreme poverty - the poverty line typical of the poorest countries in the world - but updates it using the latest information on the cost of living in developing countries. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions.The statistics reported here are based on consumption data or, when unavailable, on income surveys.
+Statistical concept(s): Poverty headcount ratio at $8.30 a day refers to the percentage of a population whose consumption or income per day falls short of $8.30 a day (adjusted for purchasing power parity differences across countries). $8.30 is the typical poverty line of upper-middle-income countries.","The World Bank defines a higher poverty line of $8.30, in addition to the international poverty line of $3.00, to account for higher living standards in a changing world (these values adjust for purchasing power differences across countries). The value of $8.30 is the typical poverty line of upper-middle-income countries, which is the estimated minimum amount of money people in upper-middle-income countries need to cover their daily basic needs, including food, clothing, shelter, heath care, education, and so on. The share of population living on less than $8.30 a day is the second indicator the World Bank tracks in its expanded vision indicators to create a world free of poverty in a livable planet. A growing majority of the world’s population live in middle-income countries (for example, about three-quarters in 2024 compared to one-quarter in 1990), so a higher poverty line would be more representative of the word’s current demographic structure. Further, a higher standard of poverty would be necessary to build resilience in a world more susceptible to climate-related risks.",,,,CC BY-4.0
+SI.POV.UMIC.GP,Poverty,Poverty gap at $8.30 a day (2021 PPP) (%),,"Poverty gap at $8.30 a day (2021 PPP) is the mean shortfall in income or consumption from the poverty line $8.30 a day (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence.",%,Annual,,The World Bank’s internationally comparable poverty monitoring database now draws on income or detailed consumption data from more than 2000 household surveys across 169 countries. See the Poverty and Inequality Platform (PIP) for details (www.pip.worldbank.org).,Population-weighted average,"Despite progress in the last decade, the challenges of measuring poverty remain. The timeliness, frequency, quality, and comparability of household surveys need to increase substantially, particularly in the poorest countries. The availability and quality of poverty monitoring data remains low in small states, countries with fragile situations, and low-income countries and even some middle-income countries. The low frequency and lack of comparability of the data available in some countries create uncertainty over the magnitude of poverty reduction. 
+
+
+
+
+
+
+
+Besides the frequency and timeliness of survey data, other data quality issues arise in measuring household living standards. The surveys ask detailed questions on sources of income and how it was spent, which must be carefully recorded by trained personnel. Income is generally more difficult to measure accurately, and consumption comes closer to the notion of living standards. And income can vary over time even if living standards do not. But consumption data are not always available: the latest estimates reported here use consumption data for about two-thirds of countries.
+
+
+
+
+
+
+
+However, even similar surveys may not be strictly comparable because of differences in timing or in the quality and training of enumerators. Comparisons of countries at different levels of development also pose a potential problem because of differences in the relative importance of the consumption of nonmarket goods. The local market value of all consumption in kind (including own production, particularly important in underdeveloped rural economies) should be included in total consumption expenditure but may not be. Most survey data now include valuations for consumption or income from own production, but valuation methods vary.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.","Methodology: International comparisons of poverty estimates entail both conceptual and practical problems. Countries have different definitions of poverty, and consistent comparisons across countries can be difficult. Local poverty lines tend to have higher purchasing power in rich countries, where more generous standards are used, than in poor countries.Since World Development Report 1990, the World Bank has aimed to apply a common standard in measuring extreme poverty, anchored to what poverty means in the world's poorest countries. The welfare of people living in different countries can be measured on a common scale by adjusting for differences in the purchasing power of currencies. The commonly used $1 a day standard, measured in 1985 international prices and adjusted to local currency using purchasing power parities (PPPs), was chosen for World Development Report 1990 because it was typical of the poverty lines in low-income countries at the time. As differences in the cost of living across the world evolve, the international poverty line has to be periodically updated using new PPP price data to reflect these changes. The last change was in September 2022, when we adopted $3.00 as the international poverty line using the 2021 PPP. Poverty measures based on international poverty lines attempt to hold the real value of the poverty line constant across countries, as is done when making comparisons over time. The $4.20 poverty line is derived from typical national poverty lines in countries classified as Lower Middle Income. The $8.30 poverty line is derived from typical national poverty lines in countries classified as Upper Middle Income.Early editions of World Development Indicators used PPPs from the Penn World Tables to convert values in local currency to equivalent purchasing power measured in U.S dollars. Later editions used 1993, 2005, and 2021 consumption PPP estimates produced by the World Bank. The current extreme poverty line is set at $3.00 a day in 2021 PPP terms, which represents the mean of the poverty lines found in 15 of the poorest countries ranked by per capita consumption. The new poverty line maintains the same standard for extreme poverty - the poverty line typical of the poorest countries in the world - but updates it using the latest information on the cost of living in developing countries. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions.The statistics reported here are based on consumption data or, when unavailable, on income surveys.
+Statistical concept(s): The poverty gap at $8.30 measures the average shortfall in income or consumption of individuals living below the poverty line of $8.30 per day, adjusted to 2021 purchasing power parity (PPP), expressed as a percentage of that poverty line. It essentially measures the depth of poverty—that is, how far the poor are living below the upper-middle-income poverty line.","Monitoring poverty is important on the global development agenda as well as on the national development agenda of many countries. The poverty gap measures the depth of poverty—that is, how far below the upper-middle-income poverty line the poor are living. The poverty gap measure is used to estimate the total value of monetary transfers that could lift the poor out of poverty, assuming poverty is transitory and there are no administrative costs of transfers.",,,,CC BY-4.0
+SI.SPR.PC40,Poverty,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",,"Mean consumption or income per capita (2021 PPP $ per day) of the bottom 40%, used in calculating the growth rate in the welfare aggregate of the bottom 40% of the population in the income distribution in a country.",2021 PPP $,Annual,,"The choice of consumption or income for a country is made according to which welfare aggregate is used to estimate extreme poverty in the Poverty and Inequality Platform (PIP). The practice adopted by the World Bank for estimating global and regional poverty is, in principle, to use per capita consumption expenditure as the welfare measure wherever available; and to use income as the welfare measure for countries for which consumption is unavailable. However, in some cases data on consumption may be available but are outdated or not shared with the World Bank for recent survey years. In these cases, if data on income are available, income is used. Whether data are for consumption or income per capita is noted in the footnotes. Because household surveys are infrequent in most countries and are not aligned across countries, comparisons across countries or over time should be made with a high degree of caution.",,"Because household surveys are infrequent in most countries and are not aligned across countries, comparisons across countries or over time should be made with a high degree of caution.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity","Methodology: Survey mean consumption or income per capita, bottom 40% of population measures the amount of consumption or income per person per day in the bottom 40% of the population. It is estimated from survey data and expressed in 2021 PPP dollars.
+Statistical concept(s): Survey mean consumption or income per capita, bottom 40% of population measures the amount of consumption or income per person per day in the bottom 40% of the population. It is estimated from survey data and expressed in 2021 PPP dollars.","It measures improvements in the well-being of the poor, thus monitoring inequality within countries (SDG 10). Inequality undermines economic growth and development in the long run, limits the potential of growth to reduce poverty, and weakens social cohesion and trust.",,,,CC BY-4.0
+SI.SPR.PC40.ZG,Poverty,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",,"The growth rate in the welfare aggregate of the bottom 40% is computed as the annualized average growth rate in per capita real consumption or income of the bottom 40% of the population in  the income distribution in a country from household surveys over a roughly 5-year period. Mean per capita real consumption or income is measured at 2021 Purchasing Power Parity (PPP) using the Poverty and Inequality Platform (http://www.pip.worldbank.org). For some countries means are not reported due to grouped and/or confidential data. The annualized growth rate is computed as (Mean in final year/Mean in initial year)^(1/(Final year - Initial year)) - 1.  The reference year is the year in which the underlying household survey data was collected. In cases for which the data collection period bridged two calendar years, the first year in which data were collected is reported. The initial year refers to the nearest survey collected 5 years before the most recent survey available, only surveys collected between 3 and 7 years before the most recent survey are considered.",%,Annual,,"The comparability of welfare aggregates (consumption or income) for the chosen years T0 and T1 is assessed for every country. If comparability across the two surveys is a major concern for a country, the selection criteria are re-applied to select the next best survey year(s). Annualized growth rates are calculated between the survey years, using a compound growth formula. The survey years defining the period for which growth rates are calculated and the type of welfare aggregate used to calculate the growth rates are noted in the footnotes.",,"Because household surveys are infrequent in most countries and are not aligned across countries, comparisons across countries or over time should be made with a high degree of caution.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity","Methodology: The annualized growth rate in per capita real survey mean consumption of the bottom 40% is computed in the following steps. First, obtain the mean consumption or income levels of the bottom 40% of the survey distribution in two different periods. The two survey data sets should be comparable - that is, they use a similar method of sampling, collecting data, and constructing the welfare aggregate. Second, the rate of change in the survey mean values of the bottom 40% is annualized.
+Statistical concept(s): The annualized growth rate in per capita real survey mean consumption or income of the bottom 40% measures the rate of change in per capita consumption or income of the bottom 40% in a year.","It measures improvements in the well-being of the poor, thus monitoring inequality within countries (SDG 10). Inequality undermines economic growth and development in the long run, limits the potential of growth to reduce poverty, and weakens social cohesion and trust.",,,,CC BY-4.0
+SI.SPR.PCAP,Poverty,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",,Mean consumption or income per capita (2021 PPP $ per day) used in calculating the growth rate in the welfare aggregate of total population.,2021 PPP $,Annual,,"The choice of consumption or income for a country is made according to which welfare aggregate is used to estimate extreme poverty in the Poverty and Inequality Platform (PIP). The practice adopted by the World Bank for estimating global and regional poverty is, in principle, to use per capita consumption expenditure as the welfare measure wherever available; and to use income as the welfare measure for countries for which consumption is unavailable. However, in some cases data on consumption may be available but are outdated or not shared with the World Bank for recent survey years. In these cases, if data on income are available, income is used. Whether data are for consumption or income per capita is noted in the footnotes. Because household surveys are infrequent in most countries and are not aligned across countries, comparisons across countries or over time should be made with a high degree of caution.",,"Because household surveys are infrequent in most countries and are not aligned across countries, comparisons across countries or over time should be made with a high degree of caution.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity","Methodology: The choice of consumption or income for a country is made according to which welfare aggregate is used to estimate extreme poverty in the Poverty and Inequality Platform (PIP). The practice adopted by the World Bank for estimating global and regional poverty is, in principle, to use per capita consumption expenditure as the welfare measure wherever available; and to use income as the welfare measure for countries for which consumption is unavailable. However, in some cases data on consumption may be available but are outdated or not shared with the World Bank for recent survey years. In these cases, if data on income are available, income is used. Whether data are for consumption or income per capita is noted in the footnotes. 
+Statistical concept(s): Survey mean consumption or income per capita, total population measures the amount of consumption or income per person per day in the population. It is estimated from survey data and expressed in 2021 PPP dollars.","The World Bank Group has a goal of promoting shared prosperity within and across countries. Growth is good for the poor and growth in poor countries reflects in improvements in the World Bank’s new shared prosperity measure, the Global Prosperity Gap.",,,,CC BY-4.0
+SI.SPR.PCAP.ZG,Poverty,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",,"The growth rate in the welfare aggregate of the total population is computed as the annualized average growth rate in per capita real consumption or income of the total population in  the income distribution in a country from household surveys over a roughly 5-year period. Mean per capita real consumption or income is measured at 2021 Purchasing Power Parity (PPP) using the Poverty and Inequality Platform (http://www.pip.worldbank.org). For some countries means are not reported due to grouped and/or confidential data. The annualized growth rate is computed as (Mean in final year/Mean in initial year)^(1/(Final year - Initial year)) - 1.  The reference year is the year in which the underlying household survey data was collected. In cases for which the data collection period bridged two calendar years, the first year in which data were collected is reported. The initial year refers to the nearest survey collected 5 years before the most recent survey available, only surveys collected between 3 and 7 years before the most recent survey are considered.",%,Annual,,"The comparability of welfare aggregates (consumption or income) for the chosen years T0 and T1 is assessed for every country. If comparability across the two surveys is a major concern for a country, the selection criteria are re-applied to select the next best survey year(s). Annualized growth rates are calculated between the survey years, using a compound growth formula. The survey years defining the period for which growth rates are calculated and the type of welfare aggregate used to calculate the growth rates are noted in the footnotes.",,"Because household surveys are infrequent in most countries and are not aligned across countries, comparisons across countries or over time should be made with a high degree of caution.",,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://www.worldbank.org/en/topic/poverty/brief/global-database-of-shared-prosperity","Methodology: The annualized growth rate in per capita real survey mean consumption of the total population is computed in the following steps. First, obtain the mean consumption or income levels of the total population of the survey distribution in two different periods. The two survey data sets should be comparable - that is, they use a similar method of sampling, collecting data, and constructing the welfare aggregate. Second, the rate of change in the survey mean values of the total population is annualized.
+Statistical concept(s): The annualized growth rate in per capita real survey mean consumption or income measures the rate of change in per capita consumption or income changes in a year.","The World Bank Group has a goal of promoting shared prosperity within and across countries. Growth is good for the poor and growth in poor countries reflects in improvements in the World Bank’s new shared prosperity measure, the Global Prosperity Gap.",,,,CC BY-4.0
+SI.SPR.PGAP,Poverty,Prosperity gap (average shortfall from a prosperity standard of $28/day),,The average shortfall from a prosperity standard of $28 per day (adjusted for differences in purchasing power parity across countries). It is measured as the average factor by which incomes fall short of $28.,,Annual,,,Population-weighted average,,,,"World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org","Methodology: The Prosperity Gap is a measure of shared prosperity. As a distribution-sensitive measure, the gap narrows when incomes increase anywhere and falls fastest when incomes of the very poorest increase: growth in income of a person earning $3.00 per day gets ten times more weight than growth in income of a person earning $28/day. Improvements (i.e., reductions) in the Prosperity Gap reflect increases in average income, reductions in inequality within countries, and (for global/regional aggregates) reductions in inequality between countries. It is estimated from nationally representative household surveys. When survey data are missing, in order to create global and regional aggregates, data are interpolated and extrapolated following the same methods that are used for global poverty estimates:  https://datanalytics.worldbank.org/PIP-Methodology/lineupestimates.html
+
+
+Statistical concept(s): The Prosperity Gap measures the average factor by which everyone’s incomes in a society needs to vary to reach a prosperity standard of $28 per day (expressed in 2021 PPP dollars). Consider the following example of five individuals earning $2, $7, $14, $28, and $56. Their incomes will have to vary by a factor of 14, 4, 2, 1, and 0.5, respectively, to achieve a prosperity standard of $28. If the world consisted of only these five individuals, the Global Prosperity Gap would be the average of these factors (4.3). As shown in this example, poorer individuals contribute more to the Global Prosperity Gap. $28 is roughly the per capita household income at which countries transition from upper-middle-income to high-income status.",The World Bank Group's mission is to end extreme poverty and boost shared prosperity on a livable planet. Boosting shared prosperity is key to ensure that development gains are shared across vulnerable groups. The goal of boosting shared prosperity is defined using the prosperity gap.,,,,CC BY-4.0

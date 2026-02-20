@@ -1,0 +1,157 @@
+Indicator Name,total_values,null_values,coverage_percent
+"Primary education, duration (years)",5320,322,93.94736842105263
+"Secondary education, duration (years)",5320,367,93.1015037593985
+"Compulsory education, duration (years)",5320,707,86.71052631578948
+"Preprimary education, duration (years)",5320,839,84.22932330827068
+"Primary education, pupils",5320,1065,79.9812030075188
+"School enrollment, primary (% gross)",5320,1134,78.6842105263158
+"School enrollment, primary, female (% gross)",5320,1147,78.43984962406014
+"School enrollment, primary, male (% gross)",5320,1151,78.36466165413533
+Primary school starting age (years),5320,1239,76.71052631578948
+Lower secondary school starting age (years),5320,1284,75.86466165413533
+"Secondary education, pupils",5320,1471,72.34962406015038
+"School enrollment, secondary (% gross)",5320,1554,70.78947368421052
+"Primary education, teachers",5320,1565,70.5827067669173
+"School enrollment, secondary, female (% gross)",5320,1597,69.9812030075188
+"School enrollment, secondary, male (% gross)",5320,1601,69.90601503759399
+"Primary education, teachers (% female)",5320,1644,69.09774436090225
+"Government expenditure on education, total (% of GDP)",5320,1747,67.16165413533835
+"Primary completion rate, total (% of relevant age group)",5320,1761,66.8984962406015
+"Government expenditure on education, total (% of government expenditure)",5320,1785,66.44736842105263
+"Primary completion rate, female (% of relevant age group)",5320,1799,66.1842105263158
+"Primary completion rate, male (% of relevant age group)",5320,1799,66.1842105263158
+"School enrollment, primary (gross), gender parity index (GPI)",5320,1865,64.94360902255639
+"School enrollment, tertiary (% gross)",5320,1888,64.51127819548873
+"Lower secondary completion rate, total (% of relevant age group)",5320,1935,63.62781954887218
+"School enrollment, tertiary, female (% gross)",5320,1956,63.233082706766915
+"School enrollment, tertiary, male (% gross)",5320,1956,63.233082706766915
+"School enrollment, tertiary (gross), gender parity index (GPI)",5320,1956,63.233082706766915
+"Lower secondary completion rate, female (% of relevant age group)",5320,1969,62.98872180451128
+"Lower secondary completion rate, male (% of relevant age group)",5320,1970,62.96992481203007
+"Secondary education, teachers",5320,2136,59.849624060150376
+"School enrollment, preprimary (% gross)",5320,2148,59.62406015037594
+"Secondary education, teachers (% female)",5320,2199,58.66541353383459
+"School enrollment, preprimary, female (% gross)",5320,2200,58.64661654135338
+"School enrollment, preprimary, male (% gross)",5320,2200,58.64661654135338
+"Secondary education, teachers, female",5320,2205,58.55263157894737
+"School enrollment, secondary (gross), gender parity index (GPI)",5320,2317,56.44736842105263
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",5320,2358,55.67669172932331
+"Primary education, pupils (% female)",5320,2368,55.48872180451128
+"Secondary education, general pupils",5320,2492,53.1578947368421
+"Secondary education, general pupils (% female)",5320,2507,52.87593984962406
+"School enrollment, primary, private (% of total primary)",5320,2513,52.76315789473684
+"Children out of school, primary",5320,2538,52.29323308270677
+Children out of school (% of primary school age),5320,2560,51.8796992481203
+"Persistence to last grade of primary, total (% of cohort)",5320,2686,49.51127819548872
+"Tertiary education, academic staff (% female)",5320,2687,49.49248120300752
+"Secondary education, pupils (% female)",5320,2694,49.3609022556391
+"Gross intake ratio in first grade of primary education, total (% of relevant age group)",5320,2704,49.17293233082707
+"Gross intake ratio in first grade of primary education, male (% of relevant age group)",5320,2731,48.66541353383459
+"Gross intake ratio in first grade of primary education, female (% of relevant age group)",5320,2731,48.66541353383459
+"Pupil-teacher ratio, primary",5320,2769,47.95112781954887
+"Repeaters, primary, total (% of total enrollment)",5320,2789,47.57518796992481
+"Persistence to last grade of primary, female (% of cohort)",5320,2823,46.93609022556391
+"Repeaters, primary, female (% of female enrollment)",5320,2823,46.93609022556391
+"Repeaters, primary, male (% of male enrollment)",5320,2823,46.93609022556391
+"Persistence to last grade of primary, male (% of cohort)",5320,2823,46.93609022556391
+Adolescents out of school (% of lower secondary school age),5320,2901,45.46992481203007
+"School enrollment, secondary, private (% of total secondary)",5320,2922,45.07518796992481
+"Secondary education, vocational pupils",5320,2949,44.567669172932334
+"School enrollment, primary (% net)",5320,2979,44.00375939849624
+Trained teachers in primary education (% of total teachers),5320,2983,43.92857142857143
+"Secondary education, vocational pupils (% female)",5320,3016,43.30827067669173
+"Adjusted net enrollment rate, primary (% of primary school age children)",5320,3088,41.954887218045116
+"Trained teachers in primary education, male (% of male teachers)",5320,3182,40.18796992481203
+"Trained teachers in primary education, female (% of female teachers)",5320,3182,40.18796992481203
+"Pupil-teacher ratio, preprimary",5320,3199,39.86842105263158
+"Children out of school, primary, female",5320,3216,39.54887218045113
+"Children out of school, primary, male",5320,3216,39.54887218045113
+"Pupil-teacher ratio, secondary",5320,3231,39.266917293233085
+"Children out of school, female (% of female primary school age)",5320,3232,39.24812030075188
+"Children out of school, male (% of male primary school age)",5320,3232,39.24812030075188
+"School enrollment, secondary (% net)",5320,3255,38.81578947368421
+"School enrollment, secondary, female (% net)",5320,3288,38.19548872180451
+"School enrollment, secondary, male (% net)",5320,3288,38.19548872180451
+"Adolescents out of school, female (% of female lower secondary school age)",5320,3351,37.01127819548872
+"Adolescents out of school, male (% of male lower secondary school age)",5320,3351,37.01127819548872
+"Over-age students, primary (% of enrollment)",5320,3369,36.67293233082707
+Progression to secondary school (%),5320,3373,36.597744360902254
+"Over-age students, primary, male (% of male enrollment)",5320,3394,36.203007518796994
+"Over-age students, primary, female (% of female enrollment)",5320,3397,36.14661654135338
+"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",5320,3449,35.169172932330824
+"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)",5320,3453,35.09398496240601
+"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)",5320,3454,35.07518796992481
+"Progression to secondary school, male (%)",5320,3460,34.962406015037594
+"Progression to secondary school, female (%)",5320,3460,34.962406015037594
+"Pupil-teacher ratio, lower secondary",5320,3473,34.71804511278196
+"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)",5320,3492,34.3609022556391
+"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",5320,3500,34.21052631578947
+"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)",5320,3513,33.96616541353384
+"Pupil-teacher ratio, upper secondary",5320,3567,32.95112781954887
+"Literacy rate, youth female (% of females ages 15-24)",5320,3575,32.80075187969925
+"School enrollment, primary, female (% net)",5320,3584,32.63157894736842
+"School enrollment, primary, male (% net)",5320,3584,32.63157894736842
+"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",5320,3605,32.23684210526316
+Trained teachers in secondary education (% of total teachers),5320,3605,32.23684210526316
+"Current education expenditure, total (% of total expenditure in public institutions)",5320,3608,32.18045112781955
+"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)",5320,3622,31.917293233082706
+"Current education expenditure, primary (% of total expenditure in primary public institutions)",5320,3622,31.917293233082706
+"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)",5320,3624,31.8796992481203
+"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)",5320,3628,31.804511278195488
+"Literacy rate, youth (ages 15-24), gender parity index (GPI)",5320,3644,31.50375939849624
+Trained teachers in preprimary education (% of total teachers),5320,3647,31.44736842105263
+"Literacy rate, youth male (% of males ages 15-24)",5320,3648,31.428571428571427
+"Literacy rate, youth total (% of people ages 15-24)",5320,3649,31.409774436090224
+"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",5320,3650,31.39097744360902
+"Adjusted net enrollment rate, primary, female (% of primary school age children)",5320,3678,30.86466165413534
+"Adjusted net enrollment rate, primary, male (% of primary school age children)",5320,3684,30.75187969924812
+"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)",5320,3696,30.526315789473685
+"Persistence to grade 5, total (% of cohort)",5320,3701,30.43233082706767
+"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",5320,3709,30.281954887218046
+"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)",5320,3720,30.075187969924812
+"Trained teachers in secondary education, male (% of male teachers)",5320,3752,29.473684210526315
+"Trained teachers in secondary education, female (% of female teachers)",5320,3752,29.473684210526315
+"Literacy rate, adult female (% of females ages 15 and above)",5320,3760,29.32330827067669
+"Literacy rate, adult male (% of males ages 15 and above)",5320,3771,29.116541353383457
+"Literacy rate, adult total (% of people ages 15 and above)",5320,3772,29.097744360902254
+"Trained teachers in preprimary education, female (% of female teachers)",5320,3779,28.966165413533833
+Net intake rate in grade 1 (% of official school-age population),5320,3779,28.966165413533833
+"Net intake rate in grade 1, female (% of official school-age population)",5320,3837,27.87593984962406
+Expenditure on tertiary education (% of government expenditure on education),5320,3838,27.857142857142858
+"Net intake rate in grade 1, male (% of official school-age population)",5320,3840,27.81954887218045
+"Persistence to grade 5, female (% of cohort)",5320,3846,27.706766917293233
+"Persistence to grade 5, male (% of cohort)",5320,3846,27.706766917293233
+"Trained teachers in preprimary education, male (% of male teachers)",5320,3911,26.484962406015036
+"Government expenditure per student, primary (% of GDP per capita)",5320,3945,25.845864661654137
+Expenditure on secondary education (% of government expenditure on education),5320,3983,25.13157894736842
+Expenditure on primary education (% of government expenditure on education),5320,3999,24.830827067669173
+Trained teachers in lower secondary education (% of total teachers),5320,4013,24.56766917293233
+"Pupil-teacher ratio, tertiary",5320,4034,24.172932330827066
+"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",5320,4045,23.966165413533833
+"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",5320,4049,23.89097744360902
+"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",5320,4049,23.89097744360902
+"Government expenditure per student, tertiary (% of GDP per capita)",5320,4090,23.1203007518797
+"Trained teachers in lower secondary education, female (% of female teachers)",5320,4115,22.650375939849624
+"Trained teachers in lower secondary education, male (% of male teachers)",5320,4116,22.63157894736842
+"Government expenditure per student, secondary (% of GDP per capita)",5320,4126,22.44360902255639
+Trained teachers in upper secondary education (% of total teachers),5320,4129,22.387218045112782
+"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)",5320,4154,21.917293233082706
+"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",5320,4155,21.898496240601503
+"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)",5320,4156,21.8796992481203
+"Trained teachers in upper secondary education, female (% of female teachers)",5320,4231,20.469924812030076
+"Trained teachers in upper secondary education, male (% of male teachers)",5320,4231,20.469924812030076
+"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",5320,4283,19.492481203007518
+"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)",5320,4291,19.342105263157894
+"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)",5320,4332,18.571428571428573
+"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",5320,4527,14.906015037593985
+"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)",5320,4564,14.210526315789474
+"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)",5320,4639,12.800751879699249
+Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),5320,4971,6.56015037593985
+Primary school age children out-of-school (%),5320,4991,6.184210526315789
+Pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,5320,4991,6.184210526315789
+Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),5320,5043,5.206766917293233
+Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%),5320,5043,5.206766917293233
+Male primary school age children out-of-school (%),5320,5063,4.830827067669173
+Male pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,5320,5063,4.830827067669173
+Female pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,5320,5063,4.830827067669173
+Female primary school age children out-of-school (%),5320,5063,4.830827067669173

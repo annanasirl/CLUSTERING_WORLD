@@ -1,0 +1,25 @@
+Indicator Name,total_values,null_values,coverage_percent
+Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),5320,3526,33.721804511278194
+Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),5320,3526,33.721804511278194
+Poverty headcount ratio at societal poverty line (% of population),5320,3526,33.721804511278194
+Prosperity gap (average shortfall from a prosperity standard of $28/day),5320,3526,33.721804511278194
+Poverty gap at $3.00 a day (2021 PPP) (%),5320,3526,33.721804511278194
+Poverty gap at $4.20 a day (2021 PPP) (%),5320,3526,33.721804511278194
+Poverty gap at $8.30 a day (2021 PPP) (%),5320,3526,33.721804511278194
+Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),5320,3526,33.721804511278194
+Income share held by second 20%,5320,3806,28.458646616541355
+Income share held by third 20%,5320,3806,28.458646616541355
+Income share held by lowest 20%,5320,3806,28.458646616541355
+Income share held by lowest 10%,5320,3806,28.458646616541355
+Income share held by highest 10%,5320,3806,28.458646616541355
+Income share held by highest 20%,5320,3806,28.458646616541355
+Gini index,5320,3806,28.458646616541355
+Income share held by fourth 20%,5320,3806,28.458646616541355
+Proportion of people living below 50 percent of median income (%),5320,3807,28.43984962406015
+Poverty headcount ratio at national poverty lines (% of population),5320,4187,21.296992481203006
+Multidimensional poverty headcount ratio (World Bank) (% of population),5320,4220,20.67669172932331
+"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",5320,5075,4.605263157894737
+"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",5320,5075,4.605263157894737
+"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",5320,5197,2.31203007518797
+"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",5320,5197,2.31203007518797
+Multidimensional poverty headcount ratio (UNDP) (% of population),5320,5211,2.0488721804511276

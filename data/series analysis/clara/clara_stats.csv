@@ -1,0 +1,32 @@
+# Top 10 countries by number of transitions
+Country Code,n_transitions
+COL,17
+PER,15
+ARG,14
+CZE,14
+KOR,14
+MMR,13
+NIC,13
+ECU,13
+BWA,13
+KAZ,12
+
+# Distribution of transitions across countries
+n_transitions,n_countries
+0,2
+1,35
+2,4
+3,21
+4,7
+5,16
+6,7
+7,16
+8,12
+9,10
+10,8
+11,10
+12,6
+13,4
+14,3
+15,1
+17,1

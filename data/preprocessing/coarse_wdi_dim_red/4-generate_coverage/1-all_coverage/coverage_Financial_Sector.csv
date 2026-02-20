@@ -1,0 +1,56 @@
+Indicator Name,total_values,null_values,coverage_percent
+"Inflation, GDP deflator (annual %)",5320,214,95.97744360902256
+"Inflation, consumer prices (annual %)",5320,692,86.99248120300751
+Domestic credit to private sector by banks (% of GDP),5320,947,82.19924812030075
+"Claims on central government, etc. (% GDP)",5320,961,81.93609022556392
+Monetary Sector credit to private sector (% GDP),5320,982,81.54135338345864
+DEC alternative conversion factor (LCU per US$),5320,1055,80.16917293233082
+"Commercial bank branches (per 100,000 adults)",5320,1128,78.796992481203
+Domestic credit to private sector (% of GDP),5320,1131,78.7406015037594
+GDP deflator (base year varies by country),5320,1162,78.15789473684211
+GDP deflator: linked series (base year varies by country),5320,1165,78.1015037593985
+"Inflation, GDP deflator: linked series (annual %)",5320,1174,77.93233082706767
+"Official exchange rate (LCU per US$, period average)",5320,1174,77.93233082706767
+"Automated teller machines (ATMs) (per 100,000 adults)",5320,1242,76.65413533834587
+Broad money (% of GDP),5320,1531,71.2218045112782
+Consumer price index (2010 = 100),5320,1642,69.13533834586467
+Bank liquid reserves to bank assets ratio (%),5320,1747,67.16165413533835
+Net foreign assets (current LCU),5320,1878,64.69924812030075
+Net domestic credit (current LCU),5320,1912,64.06015037593986
+Claims on central government (annual growth as % of broad money),5320,2307,56.63533834586466
+"Interest rate spread (lending rate minus deposit rate, %)",5320,2315,56.484962406015036
+Claims on private sector (annual growth as % of broad money),5320,2315,56.484962406015036
+Broad money (current LCU),5320,2332,56.16541353383459
+Broad money growth (annual %),5320,2340,56.015037593984964
+Broad money to total reserves ratio,5320,2538,52.29323308270677
+Claims on other sectors of the domestic economy (annual growth as % of broad money),5320,2661,49.9812030075188
+Deposit interest rate (%),5320,2768,47.96992481203007
+Lending interest rate (%),5320,2829,46.82330827067669
+Real interest rate (%),5320,2834,46.72932330827068
+"Stocks traded, turnover ratio of domestic shares (%)",5320,3049,42.68796992481203
+"Borrowers from commercial banks (per 1,000 adults)",5320,3155,40.69548872180451
+"Listed domestic companies, total",5320,3168,40.45112781954887
+"Stocks traded, total value (% of GDP)",5320,3224,39.3984962406015
+"Stocks traded, total value (current US$)",5320,3224,39.3984962406015
+Bank nonperforming loans to total gross loans (%),5320,3229,39.30451127819549
+Market capitalization of listed domestic companies (current US$),5320,3236,39.17293233082707
+Market capitalization of listed domestic companies (% of GDP),5320,3237,39.15413533834587
+"Depositors with commercial banks (per 1,000 adults)",5320,3268,38.57142857142857
+Bank capital to assets ratio (%),5320,3277,38.402255639097746
+Real effective exchange rate index (2010 = 100),5320,3434,35.45112781954887
+S&P Global Equity Indices (annual % change),5320,3878,27.105263157894736
+"Risk premium on lending (lending rate minus treasury bill rate, %)",5320,4021,24.417293233082706
+Domestic credit provided by financial sector (% of GDP),5320,4360,18.045112781954888
+Claims on other sectors of the domestic economy (% of GDP),5320,4407,17.161654135338345
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),5320,4516,15.112781954887218
+Average transaction cost of sending remittances to a specific country (%),5320,4540,14.661654135338345
+"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",5320,4542,14.62406015037594
+"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",5320,4542,14.62406015037594
+"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",5320,4542,14.62406015037594
+"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",5320,4542,14.62406015037594
+"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",5320,4543,14.605263157894736
+"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",5320,4543,14.605263157894736
+"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",5320,4555,14.3796992481203
+"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",5320,4555,14.3796992481203
+Average transaction cost of sending remittances from a specific country (%),5320,4967,6.635338345864661
+Wholesale price index (2010 = 100),5320,4978,6.428571428571429

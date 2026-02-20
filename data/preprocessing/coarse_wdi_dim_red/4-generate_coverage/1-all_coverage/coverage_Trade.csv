@@ -1,0 +1,25 @@
+Indicator Name,total_values,null_values,coverage_percent
+Net barter terms of trade index (2015 = 100),5320,1432,73.0827067669173
+Export value index (2015 = 100),5320,1445,72.83834586466165
+Import value index (2015 = 100),5320,1445,72.83834586466165
+Export volume index (2015 = 100),5320,1450,72.74436090225564
+Import volume index (2015 = 100),5320,1450,72.74436090225564
+"Tariff rate, most favored nation, simple mean, manufactured products (%)",5320,2596,51.203007518796994
+"Tariff rate, most favored nation, simple mean, primary products (%)",5320,2596,51.203007518796994
+"Tariff rate, most favored nation, simple mean, all products (%)",5320,2596,51.203007518796994
+"Tariff rate, most favored nation, weighted mean, primary products (%)",5320,2617,50.80827067669173
+"Tariff rate, most favored nation, weighted mean, manufactured products (%)",5320,2617,50.80827067669173
+"Tariff rate, most favored nation, weighted mean, all products (%)",5320,2617,50.80827067669173
+"Tariff rate, applied, simple mean, all products (%)",5320,2619,50.77067669172932
+"Tariff rate, applied, weighted mean, manufactured products (%)",5320,2619,50.77067669172932
+"Tariff rate, applied, weighted mean, all products (%)",5320,2619,50.77067669172932
+"Tariff rate, applied, simple mean, manufactured products (%)",5320,2619,50.77067669172932
+"Tariff rate, applied, simple mean, primary products (%)",5320,2619,50.77067669172932
+"Tariff rate, applied, weighted mean, primary products (%)",5320,2619,50.77067669172932
+"Binding coverage, all products (%)",5320,2876,45.93984962406015
+"Binding coverage, manufactured products (%)",5320,2876,45.93984962406015
+"Binding coverage, primary products (%)",5320,2876,45.93984962406015
+"Bound rate, simple mean, manufactured products (%)",5320,2998,43.64661654135338
+"Bound rate, simple mean, primary products (%)",5320,2998,43.64661654135338
+"Bound rate, simple mean, all products (%)",5320,2998,43.64661654135338
+Logistics performance index: Efficiency of customs clearance process (1=low to 5=high),5320,3913,26.44736842105263

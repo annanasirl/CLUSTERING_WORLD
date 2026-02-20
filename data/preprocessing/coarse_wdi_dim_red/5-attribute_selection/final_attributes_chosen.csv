@@ -1,0 +1,21 @@
+Macrocategory,Indicator Name,total_values,null_values,coverage_percent,HOW_CHOSEN,WHY_CHOSEN
+Gender,Proportion of seats held by women in national parliaments (%),5320,608,88.57142857142857,manually,only one with sufficient coverage
+Education,"Compulsory education, duration (years)",5320,707,86.71052631578948,manually,più sintetico rispetto agli altri indicatori con coverage superiore a 80pc (obbligo scolastico èiù significativo rispetto a durata scuole elementari)
+Financial Sector,"Inflation, GDP deflator (annual %)",5320,214,95.97744360902256,manually,"ottimo coverage, indicatore sintetico che dà informazioni su inflazione (importante)"
+Infrastructure,Individuals using the Internet (% of population),5320,896,83.15789473684211,manually,indicatore più sintetico tra quelli presenti
+Public Sector,Military expenditure (% of GDP),5320,1395,73.7781954887218,manually,indicatore selezionato perché anche se è appena sotto il threshold è molto più signfiicativo per il tipo di clustering che vogliamo fare
+Economic Policy & Debt,"GDP per capita, PPP (current international $)",5320,395,92.57518796992481,PCA,indicatore che contribuiva di più al primo indicatore della PCA sia nel 2009 che nel 2019
+Economic Policy & Debt,"Services, value added per worker (constant 2015 US$)",5320,970,81.76691729323308,PCA,indicatore che contribuiva in buona misura al primo indicatore della PCA sia nel 2009 che nel 2019
+Economic Policy & Debt,"Industry (including construction), value added per worker (constant 2015 US$)",5320,950,82.14285714285714,PCA,indicatore che contribuiva in buona misura al primo indicatore della PCA sia nel 2009 che nel 2019
+Environment,Urban population (% of total population),5320,20,99.62406015037594,PCA,indicatore con coverage altissima e contribuisce al primo indicatore della PCA 2009 E 2019
+Environment,Access to electricity (% of population),5320,331,93.7781954887218,PCA,indicatore che contribuiva di più al primo indicatore della PCA sia nel 2009 che nel 2019
+Environment,Renewable energy consumption (% of total final energy consumption),5320,891,83.25187969924812,PCA,"indicatore che contribuiva in buona misura al primo indicatore della PCA sia nel 2009 che nel 2019, importante anche per informatività"
+Environment,Land area (sq. km),5320,388,92.70676691729324,PCA,"indicatore che contribuiva in buona misura al secondo indicatore della PCA sia nel 2009 che nel 2019, importante anche per informatività"
+Health,Population ages 0-14 (% of total population),5320,20,99.62406015037594,PCA,"indicatore che contribuiva in buona misura al primo indicatore della PCA sia nel 2009 che nel 2019, importante anche per informatività"
+Health,"Age dependency ratio, young (% of working-age population)",5320,20,99.62406015037594,PCA,"indicatore che contribuiva in buona misura al primo indicatore della PCA sia nel 2009 che nel 2019, importante anche per informatività"
+Health,Population ages 15-64 (% of total population),5320,20,99.62406015037594,PCA,"indicatore che contribuiva in buona misura al primo indicatore della PCA sia nel 2009 che nel 2019, importante anche per informatività"
+Private Sector & Trade,Merchandise exports by the reporting economy (current US$),5320,536,89.92481203007519,PCA,"indicatore che contribuiva in buona misura al primo indicatore della PCA sia nel 2009 che nel 2019, importante anche per informatività"
+Private Sector & Trade,Merchandise imports by the reporting economy (current US$),5320,537,89.90601503759399,PCA,"indicatore che contribuiva in buona misura al primo indicatore della PCA sia nel 2009 che nel 2019, importante anche per informatività"
+Social Protection & Labor,Net migration,5320,20,99.62406015037594,manually,indicatore con coverage altissima e informatività alta
+Social Protection & Labor,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",5320,629,88.17669172932331,PCA,indicatore che contribuiva di più al primo indicatore della PCA sia nel 2009 che nel 2019
+Social Protection & Labor,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",5320,629,88.17669172932331,PCA,"indicatore che contribuiva in buona misura al primo indicatore della PCA sia nel 2009 che nel 2019, importante anche per informatività"

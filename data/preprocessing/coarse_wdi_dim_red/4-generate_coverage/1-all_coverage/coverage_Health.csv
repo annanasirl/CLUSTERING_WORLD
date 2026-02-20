@@ -1,0 +1,251 @@
+Indicator Name,total_values,null_values,coverage_percent
+Age dependency ratio (% of working-age population),5320,20,99.62406015037594
+"Age dependency ratio, old (% of working-age population)",5320,20,99.62406015037594
+"Age dependency ratio, young (% of working-age population)",5320,20,99.62406015037594
+"Population, male",5320,20,99.62406015037594
+"Population, female (% of total population)",5320,20,99.62406015037594
+"Population, female",5320,20,99.62406015037594
+"Population ages 80 and above, male (% of male population)",5320,20,99.62406015037594
+"Population ages 80 and above, female (% of female population)",5320,20,99.62406015037594
+"Population ages 75-79, male (% of male population)",5320,20,99.62406015037594
+"Population ages 75-79, female (% of female population)",5320,20,99.62406015037594
+"Population ages 70-74, male (% of male population)",5320,20,99.62406015037594
+"Population ages 70-74, female (% of female population)",5320,20,99.62406015037594
+"Population ages 65-69, male (% of male population)",5320,20,99.62406015037594
+"Population ages 65-69, female (% of female population)",5320,20,99.62406015037594
+"Population ages 65 and above, total",5320,20,99.62406015037594
+"Population ages 65 and above, male (% of male population)",5320,20,99.62406015037594
+"Population ages 65 and above, male",5320,20,99.62406015037594
+"Population ages 65 and above, female (% of female population)",5320,20,99.62406015037594
+"Population ages 65 and above, female",5320,20,99.62406015037594
+Population ages 65 and above (% of total population),5320,20,99.62406015037594
+"Population ages 60-64, male (% of male population)",5320,20,99.62406015037594
+"Population ages 60-64, female (% of female population)",5320,20,99.62406015037594
+"Population ages 55-59, male (% of male population)",5320,20,99.62406015037594
+"Population ages 55-59, female (% of female population)",5320,20,99.62406015037594
+"Population ages 50-54, male (% of male population)",5320,20,99.62406015037594
+"Population ages 50-54, female (% of female population)",5320,20,99.62406015037594
+"Population ages 45-49, male (% of male population)",5320,20,99.62406015037594
+"Population ages 45-49, female (% of female population)",5320,20,99.62406015037594
+"Population ages 40-44, male (% of male population)",5320,20,99.62406015037594
+"Population ages 40-44, female (% of female population)",5320,20,99.62406015037594
+"Population ages 35-39, male (% of male population)",5320,20,99.62406015037594
+"Population ages 35-39, female (% of female population)",5320,20,99.62406015037594
+"Population ages 30-34, male (% of male population)",5320,20,99.62406015037594
+"Population ages 30-34, female (% of female population)",5320,20,99.62406015037594
+"Population ages 25-29, male (% of male population)",5320,20,99.62406015037594
+"Population ages 25-29, female (% of female population)",5320,20,99.62406015037594
+"Population ages 20-24, male (% of male population)",5320,20,99.62406015037594
+"Population ages 20-24, female (% of female population)",5320,20,99.62406015037594
+"Population ages 15-64, total",5320,20,99.62406015037594
+"Population ages 15-64, male (% of male population)",5320,20,99.62406015037594
+"Population ages 15-64, male",5320,20,99.62406015037594
+"Population ages 15-64, female (% of female population)",5320,20,99.62406015037594
+"Population ages 15-64, female",5320,20,99.62406015037594
+Population ages 15-64 (% of total population),5320,20,99.62406015037594
+"Population ages 15-19, male (% of male population)",5320,20,99.62406015037594
+"Population ages 15-19, female (% of female population)",5320,20,99.62406015037594
+"Population ages 10-14, male (% of male population)",5320,20,99.62406015037594
+"Population ages 10-14, female (% of female population)",5320,20,99.62406015037594
+"Population ages 05-09, male (% of male population)",5320,20,99.62406015037594
+"Population ages 05-09, female (% of female population)",5320,20,99.62406015037594
+"Population ages 00-04, male (% of male population)",5320,20,99.62406015037594
+"Population ages 00-04, female (% of female population)",5320,20,99.62406015037594
+"Population ages 0-14, total",5320,20,99.62406015037594
+"Population ages 0-14, male (% of male population)",5320,20,99.62406015037594
+"Population ages 0-14, male",5320,20,99.62406015037594
+"Population ages 0-14, female (% of female population)",5320,20,99.62406015037594
+"Population ages 0-14, female",5320,20,99.62406015037594
+Population ages 0-14 (% of total population),5320,20,99.62406015037594
+"Population, male (% of total population)",5320,20,99.62406015037594
+"Population, total",5320,20,99.62406015037594
+Population growth (annual %),5320,21,99.60526315789474
+People using at least basic drinking water services (% of population),5320,176,96.69172932330827
+People using at least basic sanitation services (% of population),5320,221,95.84586466165413
+Sex ratio at birth (male births per female births),5320,285,94.64285714285714
+"Survival to age 65, male (% of cohort)",5320,285,94.64285714285714
+"Survival to age 65, female (% of cohort)",5320,285,94.64285714285714
+"Life expectancy at birth, male (years)",5320,285,94.64285714285714
+"Life expectancy at birth, total (years)",5320,285,94.64285714285714
+"Birth rate, crude (per 1,000 people)",5320,285,94.64285714285714
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",5320,285,94.64285714285714
+"Fertility rate, total (births per woman)",5320,285,94.64285714285714
+"Life expectancy at birth, female (years)",5320,285,94.64285714285714
+"Death rate, crude (per 1,000 people)",5320,285,94.64285714285714
+People practicing open defecation (% of population),5320,293,94.49248120300751
+"Mortality rate, adult, female (per 1,000 female adults)",5320,313,94.11654135338345
+"Mortality rate, adult, male (per 1,000 male adults)",5320,313,94.11654135338345
+"Immunization, measles (% of children ages 12-23 months)",5320,508,90.45112781954887
+"Immunization, DPT (% of children ages 12-23 months)",5320,508,90.45112781954887
+"Probability of dying among youth ages 20-24 years (per 1,000)",5320,684,87.14285714285714
+"Probability of dying among adolescents ages 15-19 years (per 1,000)",5320,684,87.14285714285714
+"Probability of dying among adolescents ages 10-14 years (per 1,000)",5320,684,87.14285714285714
+"Mortality rate, infant (per 1,000 live births)",5320,684,87.14285714285714
+"Mortality rate, neonatal (per 1,000 live births)",5320,684,87.14285714285714
+"Mortality rate, under-5 (per 1,000 live births)",5320,684,87.14285714285714
+"Mortality rate, under-5, female (per 1,000 live births)",5320,684,87.14285714285714
+Number of deaths ages 10-14 years,5320,684,87.14285714285714
+"Mortality rate, under-5, male (per 1,000 live births)",5320,684,87.14285714285714
+"Mortality rate, infant, male (per 1,000 live births)",5320,684,87.14285714285714
+"Mortality rate, infant, female (per 1,000 live births)",5320,684,87.14285714285714
+Number of deaths ages 15-19 years,5320,684,87.14285714285714
+Number of infant deaths,5320,684,87.14285714285714
+Number of neonatal deaths,5320,684,87.14285714285714
+Number of under-five deaths,5320,684,87.14285714285714
+Number of deaths ages 5-9 years,5320,684,87.14285714285714
+Number of deaths ages 20-24 years,5320,684,87.14285714285714
+"Probability of dying among children ages 5-9 years (per 1,000)",5320,684,87.14285714285714
+"People using at least basic drinking water services, urban (% of urban population)",5320,719,86.48496240601504
+Number of maternal deaths,5320,722,86.42857142857143
+"Maternal mortality ratio (modeled estimate, per 100,000 live births)",5320,722,86.42857142857143
+Lifetime risk of maternal death (%),5320,722,86.42857142857143
+Lifetime risk of maternal death (1 in: rate varies by country),5320,722,86.42857142857143
+"Immunization, HepB3 (% of one-year-old children)",5320,755,85.80827067669173
+Prevalence of anemia among pregnant women (%),5320,760,85.71428571428571
+Prevalence of anemia among women of reproductive age (% of women ages 15-49),5320,760,85.71428571428571
+Prevalence of anemia among non-pregnant women (% of women ages 15-49),5320,760,85.71428571428571
+Current health expenditure (% of GDP),5320,771,85.50751879699249
+Out-of-pocket expenditure (% of current health expenditure),5320,771,85.50751879699249
+Current health expenditure per capita (current US$),5320,774,85.45112781954887
+Out-of-pocket expenditure per capita (current US$),5320,774,85.45112781954887
+"Out-of-pocket expenditure per capita, PPP (current international $)",5320,777,85.39473684210526
+"Current health expenditure per capita, PPP (current international $)",5320,777,85.39473684210526
+"People using at least basic sanitation services, urban (% of urban population)",5320,779,85.35714285714286
+"People practicing open defecation, urban (% of urban population)",5320,784,85.26315789473684
+Domestic general government health expenditure (% of current health expenditure),5320,788,85.18796992481202
+Domestic general government health expenditure (% of GDP),5320,788,85.18796992481202
+Domestic private health expenditure (% of current health expenditure),5320,788,85.18796992481202
+Domestic private health expenditure per capita (current US$),5320,791,85.13157894736842
+Domestic general government health expenditure per capita (current US$),5320,791,85.13157894736842
+"Domestic private health expenditure per capita, PPP (current international $)",5320,794,85.07518796992481
+"Domestic general government health expenditure per capita, PPP (current international $)",5320,794,85.07518796992481
+"Incidence of tuberculosis (per 100,000 people)",5320,796,85.0375939849624
+"People using at least basic drinking water services, rural (% of rural population)",5320,931,82.5
+"Tuberculosis case detection rate (%, all forms)",5320,962,81.9172932330827
+"People using at least basic sanitation services, rural (% of rural population)",5320,1014,80.93984962406014
+"People practicing open defecation, rural (% of rural population)",5320,1045,80.35714285714286
+"Prevalence of overweight, weight for height, female (modeled estimate, % of children under 5)",5320,1140,78.57142857142857
+"Prevalence of overweight, weight for height (modeled estimate, % of children under 5)",5320,1140,78.57142857142857
+"Prevalence of overweight, weight for height, male (modeled estimate, % of children under 5)",5320,1140,78.57142857142857
+"Prevalence of stunting, height for age, female (modeled estimate, % of children under 5)",5320,1169,78.02631578947368
+"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",5320,1169,78.02631578947368
+"Prevalence of stunting, height for age, male (modeled estimate, % of children under 5)",5320,1169,78.02631578947368
+Prevalence of undernourishment (% of population),5320,1245,76.59774436090225
+External health expenditure (% of current health expenditure),5320,1327,75.05639097744361
+External health expenditure per capita (current US$),5320,1330,75.0
+Domestic general government health expenditure (% of general government expenditure),5320,1330,75.0
+"External health expenditure per capita, PPP (current international $)",5320,1333,74.94360902255639
+"Suicide mortality rate (per 100,000 population)",5320,1359,74.45488721804512
+"Suicide mortality rate, male (per 100,000 male population)",5320,1359,74.45488721804512
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",5320,1359,74.45488721804512
+"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",5320,1359,74.45488721804512
+"Mortality rate attributed to unintentional poisoning (per 100,000 population)",5320,1359,74.45488721804512
+"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",5320,1359,74.45488721804512
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",5320,1359,74.45488721804512
+"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",5320,1359,74.45488721804512
+"Suicide mortality rate, female (per 100,000 female population)",5320,1359,74.45488721804512
+Tuberculosis treatment success rate (% of new cases),5320,1375,74.15413533834587
+UHC service coverage index,5320,1425,73.21428571428571
+"UHC service coverage sub-index on reproductive, maternal, newborn and child health",5320,1425,73.21428571428571
+UHC service coverage sub-index on service capacity and access,5320,1425,73.21428571428571
+UHC service coverage sub-index on infectious diseases,5320,1425,73.21428571428571
+UHC service coverage sub-index on non-communicable diseases,5320,1425,73.21428571428571
+Women's share of population ages 15+ living with HIV (%),5320,1460,72.55639097744361
+"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",5320,1586,70.18796992481202
+"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",5320,1586,70.18796992481202
+"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",5320,1586,70.18796992481202
+People using safely managed drinking water services (% of population),5320,1767,66.78571428571429
+Prevalence of anemia among children (% of children ages 6-59 months),5320,1769,66.74812030075188
+"Prevalence of HIV, total (% of population ages 15-49)",5320,1775,66.63533834586467
+"Mortality caused by road traffic injury (per 100,000 population)",5320,1846,65.30075187969925
+People using safely managed sanitation services (% of population),5320,1849,65.24436090225564
+"Prevalence of HIV, male (% ages 15-24)",5320,1977,62.838345864661655
+"Prevalence of HIV, female (% ages 15-24)",5320,1977,62.838345864661655
+"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",5320,1987,62.650375939849624
+"Incidence of HIV, all (per 1,000 uninfected population)",5320,2026,61.91729323308271
+Antiretroviral therapy coverage (% of people living with HIV),5320,2044,61.578947368421055
+"People using safely managed sanitation services, urban (% of urban population)",5320,2256,57.59398496240601
+"Hospital beds (per 1,000 people)",5320,2292,56.91729323308271
+"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",5320,2304,56.69172932330827
+Low-birthweight babies (% of births),5320,2312,56.54135338345865
+Adults (ages 15+) and children (ages 0-14) newly infected with HIV,5320,2406,54.774436090225564
+Adults (ages 15-49) newly infected with HIV,5320,2527,52.5
+"Incidence of malaria (per 1,000 population at risk)",5320,2538,52.29323308270677
+Risk of impoverishing expenditure for surgical care (% of people at risk),5320,2549,52.08646616541353
+Risk of catastrophic expenditure for surgical care (% of people at risk),5320,2549,52.08646616541353
+Young people (ages 15-24) newly infected with HIV,5320,2568,51.72932330827068
+Newborns protected against tetanus (%),5320,2649,50.20676691729323
+"People using safely managed drinking water services, urban (% of urban population)",5320,2665,49.90601503759399
+"People using safely managed sanitation services, rural (% of rural population)",5320,2815,47.08646616541353
+"Nurses and midwives (per 1,000 people)",5320,2842,46.578947368421055
+"Physicians (per 1,000 people)",5320,2912,45.26315789473684
+"People using safely managed drinking water services, rural (% of rural population)",5320,3122,41.31578947368421
+People with basic handwashing facilities including soap and water (% of population),5320,3205,39.755639097744364
+"People with basic handwashing facilities including soap and water, rural (% of rural population)",5320,3291,38.1390977443609
+"People with basic handwashing facilities including soap and water, urban (% of urban population)",5320,3312,37.744360902255636
+Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV),5320,3421,35.69548872180451
+Births attended by skilled health staff (% of total),5320,3533,33.590225563909776
+Children (0-14) living with HIV,5320,3541,33.43984962406015
+Children (ages 0-14) newly infected with HIV,5320,3584,32.63157894736842
+"Prevalence of current tobacco use, males (% of male adults)",5320,3843,27.763157894736842
+Prevalence of current tobacco use (% of adults),5320,3843,27.763157894736842
+"Prevalence of current tobacco use, females (% of female adults)",5320,3843,27.763157894736842
+Vitamin A supplementation coverage rate (% of children ages 6-59 months),5320,4002,24.774436090225564
+Prevalence of moderate or severe food insecurity in the population (%),5320,4179,21.44736842105263
+Prevalence of severe food insecurity in the population (%),5320,4188,21.278195488721803
+Proportion of population facing financial hardship due to out-of-pocket health expenditure (%),5320,4280,19.548872180451127
+Proportion of population facing large (but non-impoverishing) out-of-pocket health expenditure (%),5320,4302,19.13533834586466
+"Proportion of population facing impoverishing out-of-pocket health expenditure, based on the societal poverty line (%)",5320,4302,19.13533834586466
+"Prevalence of wasting, weight for height (% of children under 5)",5320,4350,18.23308270676692
+"Prevalence of underweight, weight for age (% of children under 5)",5320,4367,17.913533834586467
+Proportion of population pushed into poverty (based on the societal poverty line) due to out-of-pocket health expenditure (%),5320,4369,17.87593984962406
+"Proportion of population further impoverished due to out-of-pocket health expenditure, based on the societal poverty line (%)",5320,4369,17.87593984962406
+"Prevalence of severe wasting, weight for height (% of children under 5)",5320,4375,17.763157894736842
+"Maternal mortality ratio (national estimate, per 100,000 live births)",5320,4459,16.18421052631579
+"Prevalence of stunting, height for age (% of children under 5)",5320,4625,13.063909774436091
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",5320,4627,13.026315789473685
+"Cause of death, by non-communicable diseases (% of total)",5320,4627,13.026315789473685
+"Cause of death, by injury (% of total)",5320,4627,13.026315789473685
+"Prevalence of overweight, weight for height (% of children under 5)",5320,4655,12.5
+"Contraceptive prevalence, any method (% of married women ages 15-49)",5320,4673,12.161654135338345
+"Prevalence of wasting, weight for height, male (% of children under 5)",5320,4680,12.030075187969924
+"Prevalence of stunting, height for age, female (% of children under 5)",5320,4680,12.030075187969924
+"Prevalence of stunting, height for age, male (% of children under 5)",5320,4680,12.030075187969924
+"Prevalence of wasting, weight for height, female (% of children under 5)",5320,4680,12.030075187969924
+"Prevalence of underweight, weight for age, male (% of children under 5)",5320,4681,12.011278195488721
+"Prevalence of underweight, weight for age, female (% of children under 5)",5320,4681,12.011278195488721
+"Prevalence of severe wasting, weight for height, female (% of children under 5)",5320,4686,11.917293233082706
+"Prevalence of severe wasting, weight for height, male (% of children under 5)",5320,4686,11.917293233082706
+Completeness of birth registration (%),5320,4693,11.785714285714286
+Pregnant women receiving prenatal care (%),5320,4700,11.654135338345865
+"Contraceptive prevalence, any modern method (% of married women ages 15-49)",5320,4702,11.61654135338346
+"Prevalence of overweight, weight for height, male (% of children under 5)",5320,4711,11.447368421052632
+"Prevalence of overweight, weight for height, female (% of children under 5)",5320,4711,11.447368421052632
+Diabetes prevalence (% of population ages 20 to 79),5320,4812,9.548872180451127
+Exclusive breastfeeding (% of children under 6 months),5320,4829,9.229323308270677
+Unmet need for contraception (% of married women ages 15-49),5320,4858,8.68421052631579
+Diarrhea treatment (% of children under 5 who received ORS packet),5320,4948,6.992481203007519
+Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding),5320,4973,6.522556390977444
+"Specialist surgical workforce (per 100,000 population)",5320,4977,6.447368421052632
+Completeness of death registration with cause-of-death information (%),5320,4978,6.428571428571429
+ARI treatment (% of children under 5 taken to a health provider),5320,4978,6.428571428571429
+"Completeness of birth registration, rural (%)",5320,4980,6.390977443609023
+"Completeness of birth registration, urban (%)",5320,4980,6.390977443609023
+Consumption of iodized salt (% of households),5320,4995,6.109022556390977
+"Completeness of birth registration, male (%)",5320,5064,4.81203007518797
+"Completeness of birth registration, female (%)",5320,5064,4.81203007518797
+Use of insecticide-treated bed nets (% of under-5 population),5320,5068,4.7368421052631575
+Children with fever receiving antimalarial drugs (% of children under age 5 with fever),5320,5069,4.7180451127819545
+"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",5320,5089,4.342105263157895
+"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",5320,5089,4.342105263157895
+"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",5320,5089,4.342105263157895
+"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",5320,5089,4.342105263157895
+Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),5320,5102,4.097744360902255
+Female headed households (% of households with a female head),5320,5109,3.9661654135338344
+"Number of surgical procedures (per 100,000 population)",5320,5142,3.345864661654135
+Demand for family planning satisfied by modern methods (% of married women with demand for family planning),5320,5145,3.289473684210526
+Wanted fertility rate (births per woman),5320,5149,3.2142857142857144
+"Community health workers (per 1,000 people)",5320,5204,2.180451127819549
+"Condom use, population ages 15-24, female (% of females ages 15-24)",5320,5215,1.9736842105263157
+"Condom use, population ages 15-24, male (% of males ages 15-24)",5320,5229,1.7105263157894737
+Female genital mutilation prevalence (%),5320,5254,1.2406015037593985

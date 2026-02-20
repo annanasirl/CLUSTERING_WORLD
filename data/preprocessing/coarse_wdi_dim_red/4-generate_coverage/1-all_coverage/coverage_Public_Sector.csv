@@ -1,0 +1,133 @@
+Indicator Name,total_values,null_values,coverage_percent
+Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100),5320,944,82.25563909774436
+Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100),5320,984,81.50375939849624
+Military expenditure (current USD),5320,1314,75.30075187969925
+Military expenditure (% of GDP),5320,1395,73.7781954887218
+Rule of Law: Standard Error,5320,1437,72.98872180451127
+"Rule of Law: Percentile Rank, Lower Bound of 90% Confidence Interval",5320,1437,72.98872180451127
+"Rule of Law: Percentile Rank, Upper Bound of 90% Confidence Interval",5320,1437,72.98872180451127
+Rule of Law: Percentile Rank,5320,1437,72.98872180451127
+Rule of Law: Number of Sources,5320,1437,72.98872180451127
+Rule of Law: Estimate,5320,1437,72.98872180451127
+Political Stability and Absence of Violence/Terrorism: Standard Error,5320,1439,72.95112781954887
+"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Upper Bound of 90% Confidence Interval",5320,1439,72.95112781954887
+Political Stability and Absence of Violence/Terrorism: Estimate,5320,1439,72.95112781954887
+"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Lower Bound of 90% Confidence Interval",5320,1439,72.95112781954887
+Political Stability and Absence of Violence/Terrorism: Number of Sources,5320,1439,72.95112781954887
+Political Stability and Absence of Violence/Terrorism: Percentile Rank,5320,1439,72.95112781954887
+Control of Corruption: Percentile Rank,5320,1459,72.57518796992481
+Control of Corruption: Standard Error,5320,1459,72.57518796992481
+Control of Corruption: Estimate,5320,1459,72.57518796992481
+"Control of Corruption: Percentile Rank, Upper Bound of 90% Confidence Interval",5320,1459,72.57518796992481
+Control of Corruption: Number of Sources,5320,1459,72.57518796992481
+"Control of Corruption: Percentile Rank, Lower Bound of 90% Confidence Interval",5320,1459,72.57518796992481
+Government Effectiveness: Standard Error,5320,1461,72.5375939849624
+"Government Effectiveness: Percentile Rank, Upper Bound of 90% Confidence Interval",5320,1461,72.5375939849624
+Government Effectiveness: Estimate,5320,1461,72.5375939849624
+"Government Effectiveness: Percentile Rank, Lower Bound of 90% Confidence Interval",5320,1461,72.5375939849624
+Government Effectiveness: Percentile Rank,5320,1461,72.5375939849624
+Government Effectiveness: Number of Sources,5320,1461,72.5375939849624
+"Regulatory Quality: Percentile Rank, Upper Bound of 90% Confidence Interval",5320,1462,72.5187969924812
+Regulatory Quality: Standard Error,5320,1462,72.5187969924812
+Regulatory Quality: Percentile Rank,5320,1462,72.5187969924812
+"Regulatory Quality: Percentile Rank, Lower Bound of 90% Confidence Interval",5320,1462,72.5187969924812
+Regulatory Quality: Estimate,5320,1462,72.5187969924812
+Regulatory Quality: Number of Sources,5320,1462,72.5187969924812
+"Voice and Accountability: Percentile Rank, Lower Bound of 90% Confidence Interval",5320,1466,72.44360902255639
+Voice and Accountability: Percentile Rank,5320,1466,72.44360902255639
+"Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval",5320,1466,72.44360902255639
+Voice and Accountability: Standard Error,5320,1466,72.44360902255639
+Voice and Accountability: Number of Sources,5320,1466,72.44360902255639
+Voice and Accountability: Estimate,5320,1466,72.44360902255639
+Military expenditure (% of general government expenditure),5320,1613,69.68045112781955
+"Armed forces personnel, total",5320,1928,63.7593984962406
+Armed forces personnel (% of total labor force),5320,1958,63.19548872180451
+Arms imports (SIPRI trend indicator values),5320,2168,59.24812030075188
+Taxes on goods and services (% of revenue),5320,2190,58.83458646616541
+Military expenditure (current LCU),5320,2217,58.32706766917293
+"Taxes on income, profits and capital gains (% of revenue)",5320,2232,58.045112781954884
+Interest payments (% of revenue),5320,2242,57.857142857142854
+"Revenue, excluding grants (% of GDP)",5320,2272,57.29323308270677
+Tax revenue (% of GDP),5320,2274,57.255639097744364
+Compensation of employees (% of expense),5320,2290,56.954887218045116
+Goods and services expense (% of expense),5320,2309,56.597744360902254
+Interest payments (% of expense),5320,2332,56.16541353383459
+Subsidies and other transfers (% of expense),5320,2368,55.48872180451128
+Grants and other revenue (% of revenue),5320,2438,54.17293233082707
+"Intentional homicides (per 100,000 people)",5320,2475,53.47744360902256
+Other expense (% of expense),5320,2480,53.38345864661654
+Expense (% of GDP),5320,2506,52.89473684210526
+Net lending (+) / net borrowing (-) (% of GDP),5320,2523,52.57518796992481
+Other taxes (% of revenue),5320,2530,52.443609022556394
+Net investment in nonfinancial assets (% of GDP),5320,2653,50.13157894736842
+Taxes on international trade (% of revenue),5320,2747,48.36466165413534
+"Revenue, excluding grants (current LCU)",5320,2864,46.16541353383459
+Tax revenue (current LCU),5320,2866,46.12781954887218
+Taxes on goods and services (current LCU),5320,2885,45.77067669172932
+Compensation of employees (current LCU),5320,2911,45.28195488721804
+Expense (current LCU),5320,2916,45.18796992481203
+Interest payments (current LCU),5320,2926,45.0
+"Taxes on income, profits and capital gains (% of total taxes)",5320,2927,44.9812030075188
+"Taxes on income, profits and capital gains (current LCU)",5320,2927,44.9812030075188
+Goods and services expense (current LCU),5320,2928,44.962406015037594
+Taxes on goods and services (% value added of industry and services),5320,2930,44.92481203007519
+Net investment in nonfinancial assets (current LCU),5320,2935,44.830827067669176
+"Internally displaced persons, new displacement associated with disasters (number of cases)",5320,2936,44.81203007518797
+Net lending (+) / net borrowing (-) (current LCU),5320,2937,44.79323308270677
+Primary government expenditures as a proportion of original approved budget (%),5320,2954,44.473684210526315
+CPIA quality of public administration rating (1=low to 6=high),5320,2962,44.32330827067669
+CPIA economic management cluster average (1=low to 6=high),5320,2962,44.32330827067669
+CPIA efficiency of revenue mobilization rating (1=low to 6=high),5320,2962,44.32330827067669
+CPIA financial sector rating (1=low to 6=high),5320,2962,44.32330827067669
+CPIA business regulatory environment rating (1=low to 6=high),5320,2962,44.32330827067669
+CPIA debt policy rating (1=low to 6=high),5320,2962,44.32330827067669
+CPIA building human resources rating (1=low to 6=high),5320,2962,44.32330827067669
+CPIA equity of public resource use rating (1=low to 6=high),5320,2962,44.32330827067669
+CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),5320,2962,44.32330827067669
+"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",5320,2962,44.32330827067669
+CPIA property rights and rule-based governance rating (1=low to 6=high),5320,2962,44.32330827067669
+CPIA quality of budgetary and financial management rating (1=low to 6=high),5320,2962,44.32330827067669
+CPIA structural policies cluster average (1=low to 6=high),5320,2962,44.32330827067669
+CPIA trade rating (1=low to 6=high),5320,2962,44.32330827067669
+CPIA gender equality rating (1=low to 6=high),5320,2962,44.32330827067669
+CPIA public sector management and institutions cluster average (1=low to 6=high),5320,2962,44.32330827067669
+IDA resource allocation index (1=low to 6=high),5320,2962,44.32330827067669
+CPIA macroeconomic management rating (1=low to 6=high),5320,2962,44.32330827067669
+CPIA fiscal policy rating (1=low to 6=high),5320,2962,44.32330827067669
+Subsidies and other transfers (current LCU),5320,2966,44.24812030075188
+CPIA policies for social inclusion/equity cluster average (1=low to 6=high),5320,2967,44.22932330827068
+CPIA social protection rating (1=low to 6=high),5320,2970,44.17293233082707
+Other expense (current LCU),5320,3058,42.5187969924812
+Grants and other revenue (current LCU),5320,3118,41.390977443609025
+Other taxes (current LCU),5320,3160,40.6015037593985
+"Intentional homicides, male (per 100,000 male)",5320,3174,40.338345864661655
+"Intentional homicides, female (per 100,000 female)",5320,3209,39.68045112781955
+Taxes on international trade (current LCU),5320,3312,37.744360902255636
+Social contributions (% of revenue),5320,3337,37.274436090225564
+"Net incurrence of liabilities, total (% of GDP)",5320,3354,36.954887218045116
+Net acquisition of financial assets (% of GDP),5320,3386,36.35338345864662
+Customs and other import duties (current LCU),5320,3402,36.05263157894737
+Customs and other import duties (% of tax revenue),5320,3402,36.05263157894737
+Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100),5320,3535,33.55263157894737
+Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100),5320,3574,32.81954887218045
+"Net incurrence of liabilities, total (current LCU)",5320,3597,32.38721804511278
+Net acquisition of financial assets (current LCU),5320,3601,32.31203007518797
+Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100),5320,3658,31.2406015037594
+Statistical performance indicators (SPI): Overall score (scale 0-100),5320,3671,30.99624060150376
+Social contributions (current LCU),5320,3718,30.112781954887218
+Arms exports (SIPRI trend indicator values),5320,4066,23.571428571428573
+"Central government debt, total (% of GDP)",5320,4298,19.210526315789473
+"Central government debt, total (current LCU)",5320,4394,17.406015037593985
+Battle-related deaths (number of people),5320,4448,16.39097744360902
+Taxes on exports (current LCU),5320,4571,14.078947368421053
+Taxes on exports (% of tax revenue),5320,4571,14.078947368421053
+"Internally displaced persons, new displacement associated with conflict and violence (number of cases)",5320,4635,12.87593984962406
+Human capital index (HCI) (scale 0-1),5320,4719,11.296992481203008
+"Human capital index (HCI), lower bound (scale 0-1)",5320,4719,11.296992481203008
+"Human capital index (HCI), upper bound (scale 0-1)",5320,4719,11.296992481203008
+"Human capital index (HCI), female (scale 0-1)",5320,4794,9.887218045112782
+"Human capital index (HCI), female, lower bound (scale 0-1)",5320,4794,9.887218045112782
+"Human capital index (HCI), female, upper bound (scale 0-1)",5320,4794,9.887218045112782
+"Human capital index (HCI), male, lower bound (scale 0-1)",5320,4795,9.868421052631579
+"Human capital index (HCI), male, upper bound (scale 0-1)",5320,4795,9.868421052631579
+"Human capital index (HCI), male (scale 0-1)",5320,4795,9.868421052631579
