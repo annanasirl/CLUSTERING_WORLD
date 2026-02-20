@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+data/og_dataset/WDI/WDIfootnote.csv
+data/preprocessing/coarse_wdi_dim_red/1-cut_before_2005/WDICSV_from_2005.csv
+data/og_dataset/WDI/WDICSV.csv
